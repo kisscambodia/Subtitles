@@ -1,0 +1,1201 @@
+﻿1
+00:01:34,886 --> 00:01:37,347
+<c.bg_transparent>Aku sangat lelah.</c.bg_transparent>
+
+2
+00:01:37,806 --> 00:01:39,974
+<c.bg_transparent>Itu karena kau selalu diawasi.</c.bg_transparent>
+
+3
+00:01:40,058 --> 00:01:42,393
+<c.bg_transparent>Tuan Fu dan Lan Fan, 'kan?</c.bg_transparent>
+
+4
+00:01:42,477 --> 00:01:44,854
+<c.bg_transparent>Hei, di mana Tuan Muda?</c.bg_transparent>
+
+5
+00:01:49,484 --> 00:01:52,821
+<c.bg_transparent>- Dia tak ada di sini.</c.bg_transparent>
+<c.bg_transparent>- Apa dia menghilang lagi?</c.bg_transparent>
+
+6
+00:01:55,031 --> 00:01:57,826
+<c.bg_transparent>Dia melakukan ini setiap kali aku lengah.</c.bg_transparent>
+
+7
+00:01:59,369 --> 00:02:02,831
+<c.bg_transparent>Tuan Muda, di mana kau?</c.bg_transparent>
+
+8
+00:02:04,290 --> 00:02:05,834
+<c.bg_transparent>Bagaimana jika dia pingsan lagi?</c.bg_transparent>
+
+9
+00:02:06,918 --> 00:02:09,170
+<c.bg_transparent>Sungguh melegakan. Ayo.</c.bg_transparent>
+
+10
+00:02:10,338 --> 00:02:11,548
+<c.bg_transparent>Baik!</c.bg_transparent>
+
+11
+00:02:14,217 --> 00:02:17,804
+<c.bg_transparent>Tuan Muda, di mana kau?</c.bg_transparent>
+
+12
+00:02:26,980 --> 00:02:29,941
+<c.bg_transparent><i>Ada yang aneh dengan negeri ini.</i></c.bg_transparent>
+
+13
+00:02:30,024 --> 00:02:32,944
+<c.bg_transparent>JEJAK KAKI TEMAN SEPERJUANGAN</c.bg_transparent>
+
+14
+00:02:44,205 --> 00:02:46,374
+<c.bg_transparent>Ini aku. Aku datang untuk menemuimu.</c.bg_transparent>
+
+15
+00:02:48,251 --> 00:02:49,919
+<c.bg_transparent>Kau melakukan tugasmu dengan baik.</c.bg_transparent>
+
+16
+00:02:50,378 --> 00:02:51,504
+<c.bg_transparent>Ini dari Kolonel.</c.bg_transparent>
+
+17
+00:02:54,799 --> 00:02:56,509
+<c.bg_transparent>Teman merokokku.</c.bg_transparent>
+
+18
+00:02:56,926 --> 00:02:59,220
+<c.bg_transparent>Apa kau sudah berhasil mengalahkannya?</c.bg_transparent>
+
+19
+00:02:59,304 --> 00:03:02,765
+<c.bg_transparent>Belum.</c.bg_transparent>
+<c.bg_transparent>Lagi pula, permainan ini membosankan.</c.bg_transparent>
+
+20
+00:03:03,349 --> 00:03:06,394
+<c.bg_transparent>Jika sudah malam, aku boleh keluar</c.bg_transparent>
+<c.bg_transparent>dan menjagal seseorang, 'kan?</c.bg_transparent>
+
+21
+00:03:06,477 --> 00:03:07,854
+<c.bg_transparent>Tidak boleh.</c.bg_transparent>
+
+22
+00:03:07,937 --> 00:03:12,108
+<c.bg_transparent>Setidaknya, ajaklah Hawkeye kemari.</c.bg_transparent>
+
+23
+00:03:12,192 --> 00:03:15,069
+<c.bg_transparent>Baiklah, aku akan memberitahunya.</c.bg_transparent>
+
+24
+00:03:15,486 --> 00:03:19,949
+<c.bg_transparent>Berapa lama lagi</c.bg_transparent>
+<c.bg_transparent>aku harus mengawasi orang ini?</c.bg_transparent>
+
+25
+00:03:20,325 --> 00:03:21,159
+<c.bg_transparent>Apa kata Kolonel?</c.bg_transparent>
+
+26
+00:03:22,744 --> 00:03:25,997
+<c.bg_transparent>Kolonel berkata, "Maaf karena memberimu</c.bg_transparent>
+<c.bg_transparent>tugas yang membahayakan ini."</c.bg_transparent>
+
+27
+00:03:26,623 --> 00:03:30,752
+<c.bg_transparent>"Jangan mencemaskan tugas militermu.</c.bg_transparent>
+<c.bg_transparent>Anggap saja ini izin sakit."</c.bg_transparent>
+
+28
+00:03:31,544 --> 00:03:33,963
+<c.bg_transparent>"Namun, jika masyarakat</c.bg_transparent>
+<c.bg_transparent>atau personel militer lainnya</c.bg_transparent>
+
+29
+00:03:34,047 --> 00:03:39,719
+<c.bg_transparent>sampai melihatmu, kau harus membayarnya."</c.bg_transparent>
+
+30
+00:03:41,471 --> 00:03:45,266
+<c.bg_transparent>- Apakah ada kabar yang bagus?</c.bg_transparent>
+<c.bg_transparent>- Ya.</c.bg_transparent>
+
+31
+00:03:45,433 --> 00:03:46,976
+<c.bg_transparent>Apa itu?</c.bg_transparent>
+
+32
+00:03:47,393 --> 00:03:49,312
+<c.bg_transparent>Aku punya pacar!</c.bg_transparent>
+
+33
+00:03:50,355 --> 00:03:51,898
+<c.bg_transparent>Dia sangat baik kepadaku</c.bg_transparent>
+
+34
+00:03:51,981 --> 00:03:53,733
+<c.bg_transparent>saat aku kesulitan pindah kemari.</c.bg_transparent>
+
+35
+00:03:54,150 --> 00:03:56,110
+<c.bg_transparent>Dia juga sangat cantik.</c.bg_transparent>
+
+36
+00:03:56,194 --> 00:03:59,489
+<c.bg_transparent>Apa gadis ini cocok untuk dijagal?</c.bg_transparent>
+
+37
+00:04:00,198 --> 00:04:02,242
+<c.bg_transparent>Kumohon, pergilah.</c.bg_transparent>
+
+38
+00:04:04,911 --> 00:04:06,788
+<c.bg_transparent>Hei, apa kau baik-baik saja?</c.bg_transparent>
+
+39
+00:04:06,871 --> 00:04:08,748
+<c.bg_transparent>Makanan...</c.bg_transparent>
+
+40
+00:04:08,831 --> 00:04:10,750
+<c.bg_transparent>Dia pingsan di pinggir jalan.</c.bg_transparent>
+
+41
+00:04:11,459 --> 00:04:13,002
+<c.bg_transparent>Dari mana asalmu?</c.bg_transparent>
+
+42
+00:04:13,544 --> 00:04:15,922
+<c.bg_transparent>Apa? Kau dari Xing?</c.bg_transparent>
+
+43
+00:04:16,381 --> 00:04:18,007
+<c.bg_transparent>Itu tempat yang sangat jauh.</c.bg_transparent>
+
+44
+00:04:18,508 --> 00:04:20,927
+<c.bg_transparent>Di mana surat izin berkunjungmu?</c.bg_transparent>
+
+45
+00:04:24,097 --> 00:04:25,390
+<c.bg_transparent>Beri jalan!</c.bg_transparent>
+
+46
+00:04:25,473 --> 00:04:27,725
+<c.bg_transparent>Ada pendatang gelap!</c.bg_transparent>
+
+47
+00:04:27,850 --> 00:04:30,770
+<c.bg_transparent>Tuan Muda, di mana kau?</c.bg_transparent>
+
+48
+00:04:31,312 --> 00:04:34,274
+<c.bg_transparent>Dia pingsan. Aku yakin dia pingsan.</c.bg_transparent>
+
+49
+00:04:35,233 --> 00:04:39,112
+<c.bg_transparent>Sebaiknya kita mampir dahulu</c.bg_transparent>
+<c.bg_transparent>ke kantor militer.</c.bg_transparent>
+
+50
+00:04:39,195 --> 00:04:40,029
+<c.bg_transparent>Ya.</c.bg_transparent>
+
+51
+00:04:40,655 --> 00:04:44,784
+<c.bg_transparent>Sepertinya aku akan langsung</c.bg_transparent>
+<c.bg_transparent>ke rumah Tuan Hughes saja.</c.bg_transparent>
+
+52
+00:04:45,368 --> 00:04:48,079
+<c.bg_transparent>Aku ingin segera bertemu</c.bg_transparent>
+<c.bg_transparent>Nyonya Gracia dan Elicia.</c.bg_transparent>
+
+53
+00:04:48,454 --> 00:04:51,416
+<c.bg_transparent>Baiklah, kami akan menyusul.</c.bg_transparent>
+
+54
+00:04:51,499 --> 00:04:52,750
+<c.bg_transparent>Baiklah, sampai nanti.</c.bg_transparent>
+
+55
+00:04:57,171 --> 00:05:00,466
+<c.bg_transparent>Apakah Kolonel Hughes</c.bg_transparent>
+<c.bg_transparent>telah mendapatkan informasi</c.bg_transparent>
+
+56
+00:05:00,550 --> 00:05:02,218
+<c.bg_transparent>mengenai Batu Bertuah itu?</c.bg_transparent>
+
+57
+00:05:03,469 --> 00:05:06,431
+<c.bg_transparent>Fuhrer cukup jelas mengatakannya.</c.bg_transparent>
+
+58
+00:05:07,265 --> 00:05:10,268
+<c.bg_transparent>Mari kita memberitahukan dahulu</c.bg_transparent>
+<c.bg_transparent>informasi yang kita miliki.</c.bg_transparent>
+
+59
+00:05:11,686 --> 00:05:14,272
+<c.bg_transparent>- Homunculus.</c.bg_transparent>
+<c.bg_transparent>- Ya.</c.bg_transparent>
+
+60
+00:05:14,814 --> 00:05:18,526
+<c.bg_transparent>Kudengar, Kolonel berada</c.bg_transparent>
+<c.bg_transparent>di kantor pengadilan militer.</c.bg_transparent>
+
+61
+00:05:19,694 --> 00:05:20,903
+<c.bg_transparent>Lewat sana.</c.bg_transparent>
+
+62
+00:05:38,921 --> 00:05:42,342
+<c.bg_transparent>- Sheska?</c.bg_transparent>
+<c.bg_transparent>- Ya, Bu?</c.bg_transparent>
+
+63
+00:05:42,967 --> 00:05:45,094
+<c.bg_transparent>Kau punya kunci ruangan itu, 'kan?</c.bg_transparent>
+
+64
+00:05:45,553 --> 00:05:49,265
+<c.bg_transparent>Ya. Maksudmu, ruangan nomor tiga?</c.bg_transparent>
+
+65
+00:05:49,349 --> 00:05:51,684
+<c.bg_transparent>Ruangannya masih berantakan</c.bg_transparent>
+<c.bg_transparent>karena kugunakan.</c.bg_transparent>
+
+66
+00:05:52,268 --> 00:05:55,188
+<c.bg_transparent>Tak apa-apa.</c.bg_transparent>
+<c.bg_transparent>Aku hanya ingin mengambil dokumen.</c.bg_transparent>
+
+67
+00:05:55,271 --> 00:05:56,981
+<c.bg_transparent>Kau tak boleh masuk!</c.bg_transparent>
+
+68
+00:05:57,065 --> 00:05:59,192
+<c.bg_transparent>Aku akan segera merapikannya.</c.bg_transparent>
+<c.bg_transparent>Tunggu sebentar!</c.bg_transparent>
+
+69
+00:06:01,194 --> 00:06:05,031
+<c.bg_transparent>Baiklah, aku akan kembali lagi nanti,</c.bg_transparent>
+<c.bg_transparent>maka cepat rapikan.</c.bg_transparent>
+
+70
+00:06:05,114 --> 00:06:05,948
+<c.bg_transparent>Baik, Bu!</c.bg_transparent>
+
+71
+00:06:20,755 --> 00:06:24,884
+<c.bg_transparent>Kolonel? Kolonel Mustang?</c.bg_transparent>
+
+72
+00:06:29,806 --> 00:06:33,226
+<c.bg_transparent>Sudah berapa lama aku tertidur?</c.bg_transparent>
+
+73
+00:06:33,309 --> 00:06:34,644
+<c.bg_transparent>Sekitar 10 menit.</c.bg_transparent>
+
+74
+00:06:39,273 --> 00:06:41,150
+<c.bg_transparent>Sudah saatnya rapat dewan.</c.bg_transparent>
+
+75
+00:06:41,859 --> 00:06:45,363
+<c.bg_transparent>Mungkin ini memang bukan urusanku,</c.bg_transparent>
+
+76
+00:06:45,446 --> 00:06:48,074
+<c.bg_transparent>tapi jangan kau paksakan</c.bg_transparent>
+<c.bg_transparent>dan beristirahatlah.</c.bg_transparent>
+
+77
+00:06:48,157 --> 00:06:50,284
+<c.bg_transparent>Ya, aku akan segera kembali.</c.bg_transparent>
+
+78
+00:06:53,913 --> 00:06:55,456
+<c.bg_transparent>Apa itu Kolonel Mustang?</c.bg_transparent>
+
+79
+00:06:57,500 --> 00:07:00,628
+<c.bg_transparent>Selamat pagi, Kapten Focker.</c.bg_transparent>
+
+80
+00:07:00,711 --> 00:07:02,630
+<c.bg_transparent>Selamat pagi, Sheska.</c.bg_transparent>
+
+81
+00:07:03,089 --> 00:07:05,675
+<c.bg_transparent>Apa yang dilakukan Kolonel di sini?</c.bg_transparent>
+
+82
+00:07:06,676 --> 00:07:08,219
+<c.bg_transparent>Itu...</c.bg_transparent>
+
+83
+00:07:08,302 --> 00:07:09,679
+<c.bg_transparent>Gudangnya terbuka.</c.bg_transparent>
+
+84
+00:07:09,762 --> 00:07:12,473
+<c.bg_transparent>Maafkan aku! Sebenarnya...</c.bg_transparent>
+
+85
+00:07:13,891 --> 00:07:16,310
+<c.bg_transparent>Pasti Kolonel mendesakmu, 'kan?</c.bg_transparent>
+
+86
+00:07:16,644 --> 00:07:17,937
+<c.bg_transparent>Aku akan merahasiakannya.</c.bg_transparent>
+
+87
+00:07:18,020 --> 00:07:20,189
+<c.bg_transparent>Terima kasih banyak!</c.bg_transparent>
+
+88
+00:07:20,857 --> 00:07:24,277
+<c.bg_transparent>Aku hanya penasaran</c.bg_transparent>
+<c.bg_transparent>dengan apa yang Kolonel cari.</c.bg_transparent>
+
+89
+00:07:24,360 --> 00:07:25,194
+<c.bg_transparent>Apa kau tahu?</c.bg_transparent>
+
+90
+00:07:26,946 --> 00:07:29,991
+<c.bg_transparent>Aku tak tahu detailnya,</c.bg_transparent>
+
+91
+00:07:30,408 --> 00:07:34,328
+<c.bg_transparent>tapi dia bertanya apakah ada informasi</c.bg_transparent>
+<c.bg_transparent>mengenai Laboratorium Lima.</c.bg_transparent>
+
+92
+00:07:35,329 --> 00:07:37,707
+<c.bg_transparent>Dia juga menanyakan</c.bg_transparent>
+<c.bg_transparent>perihal kasus Jenderal Hughes.</c.bg_transparent>
+
+93
+00:07:40,293 --> 00:07:44,589
+<c.bg_transparent>Aku mendapatkan pekerjaan ini</c.bg_transparent>
+<c.bg_transparent>dari Jenderal.</c.bg_transparent>
+
+94
+00:07:44,714 --> 00:07:47,133
+<c.bg_transparent>Itu benar.</c.bg_transparent>
+
+95
+00:07:49,427 --> 00:07:51,137
+<c.bg_transparent>Ada banyak pekerjaan hari ini.</c.bg_transparent>
+
+96
+00:07:53,139 --> 00:07:54,891
+<c.bg_transparent>Lanjutkan pekerjaanmu.</c.bg_transparent>
+
+97
+00:07:55,975 --> 00:07:57,185
+<c.bg_transparent>Baik, Pak.</c.bg_transparent>
+
+98
+00:08:13,826 --> 00:08:14,952
+<c.bg_transparent>Selamat pagi, Sheska.</c.bg_transparent>
+
+99
+00:08:15,328 --> 00:08:17,413
+<c.bg_transparent>Pak?</c.bg_transparent>
+
+100
+00:08:17,747 --> 00:08:19,081
+<c.bg_transparent>Apa?</c.bg_transparent>
+
+101
+00:08:37,517 --> 00:08:38,893
+<c.bg_transparent>Halo.</c.bg_transparent>
+
+102
+00:08:38,976 --> 00:08:40,603
+<c.bg_transparent>Hei.</c.bg_transparent>
+
+103
+00:08:44,732 --> 00:08:47,109
+<c.bg_transparent>Apa berat badanmu turun, Pak?</c.bg_transparent>
+
+104
+00:08:48,819 --> 00:08:50,112
+<c.bg_transparent>Mungkin.</c.bg_transparent>
+
+105
+00:08:51,239 --> 00:08:52,698
+<c.bg_transparent>Kau terluka?</c.bg_transparent>
+
+106
+00:08:52,907 --> 00:08:55,451
+<c.bg_transparent>Sesuatu terjadi  di selatan.</c.bg_transparent>
+
+107
+00:08:55,535 --> 00:08:58,287
+<c.bg_transparent>Namun, ini hanya luka gores.</c.bg_transparent>
+
+108
+00:08:58,788 --> 00:08:59,622
+<c.bg_transparent>Begitu rupanya.</c.bg_transparent>
+
+109
+00:09:00,957 --> 00:09:03,417
+<c.bg_transparent>Aku melihat Elric bersaudara.</c.bg_transparent>
+
+110
+00:09:04,252 --> 00:09:06,254
+<c.bg_transparent>Mereka ke Dublith untuk menemui</c.bg_transparent>
+<c.bg_transparent>guru mereka,</c.bg_transparent>
+
+111
+00:09:06,337 --> 00:09:08,297
+<c.bg_transparent>dan aku bertemu dengan mereka.</c.bg_transparent>
+
+112
+00:09:08,381 --> 00:09:10,174
+<c.bg_transparent>- Mayor...</c.bg_transparent>
+<c.bg_transparent>- Ya?</c.bg_transparent>
+
+113
+00:09:11,592 --> 00:09:13,427
+<c.bg_transparent>Kau memberi tahu</c.bg_transparent>
+<c.bg_transparent>tentang kematian Hughes?</c.bg_transparent>
+
+114
+00:09:15,304 --> 00:09:17,932
+<c.bg_transparent>Aku tak bisa memberi tahu mereka.</c.bg_transparent>
+
+115
+00:09:18,766 --> 00:09:22,937
+<c.bg_transparent>- Mereka pasti akan mengetahuinya.</c.bg_transparent>
+<c.bg_transparent>- Aku tahu.</c.bg_transparent>
+
+116
+00:09:23,813 --> 00:09:26,190
+<c.bg_transparent>Laboratorium Lima dan Batu Bertuah.</c.bg_transparent>
+
+117
+00:09:26,274 --> 00:09:27,942
+<c.bg_transparent>Bahan Batu itu adalah manusia hidup.</c.bg_transparent>
+
+118
+00:09:29,819 --> 00:09:32,321
+<c.bg_transparent>Dia dulu suka melakukan sesuatu</c.bg_transparent>
+<c.bg_transparent>untuk orang lain.</c.bg_transparent>
+
+119
+00:09:32,405 --> 00:09:35,616
+<c.bg_transparent>Lalu, dia ikut campur dengan apa</c.bg_transparent>
+<c.bg_transparent>yang diselidiki Elric bersaudara,</c.bg_transparent>
+
+120
+00:09:35,700 --> 00:09:38,703
+<c.bg_transparent>dan mempelajari sesuatu</c.bg_transparent>
+<c.bg_transparent>yang tak seharusnya dia ketahui.</c.bg_transparent>
+
+121
+00:09:39,412 --> 00:09:40,580
+<c.bg_transparent>Apakah aku keliru?</c.bg_transparent>
+
+122
+00:09:42,915 --> 00:09:47,420
+<c.bg_transparent>Jika Elric bersaudara tahu</c.bg_transparent>
+<c.bg_transparent>bahwa Hughes telah meninggal</c.bg_transparent>
+
+123
+00:09:47,503 --> 00:09:50,590
+<c.bg_transparent>karena terlibat dalam urusan mereka,</c.bg_transparent>
+<c.bg_transparent>itu akan menyakiti mereka.</c.bg_transparent>
+
+124
+00:09:50,673 --> 00:09:52,466
+<c.bg_transparent>Kau sangat baik hati.</c.bg_transparent>
+
+125
+00:09:54,302 --> 00:09:55,595
+<c.bg_transparent>Pengetahuanmu luas.</c.bg_transparent>
+
+126
+00:09:55,678 --> 00:09:56,971
+<c.bg_transparent>Hampir luas.</c.bg_transparent>
+
+127
+00:09:58,764 --> 00:09:59,974
+<c.bg_transparent>Hati-hati, Pak.</c.bg_transparent>
+
+128
+00:10:02,101 --> 00:10:05,479
+<c.bg_transparent>Tak ada yang tahu</c.bg_transparent>
+<c.bg_transparent>siapa yang mendengarkan.</c.bg_transparent>
+
+129
+00:10:07,106 --> 00:10:08,816
+<c.bg_transparent>Permisi.</c.bg_transparent>
+
+130
+00:10:16,449 --> 00:10:18,951
+<c.bg_transparent>Apa? Letnan Hawkeye...</c.bg_transparent>
+
+131
+00:10:20,620 --> 00:10:22,913
+<c.bg_transparent>Lama tak bertemu.</c.bg_transparent>
+
+132
+00:10:23,914 --> 00:10:27,168
+<c.bg_transparent>- Jika Letnan di sini, artinya...</c.bg_transparent>
+<c.bg_transparent>- Terima kasih sudah menunggu.</c.bg_transparent>
+
+133
+00:10:27,960 --> 00:10:29,337
+<c.bg_transparent>Tentu saja.</c.bg_transparent>
+
+134
+00:10:29,420 --> 00:10:30,671
+<c.bg_transparent>Baja.</c.bg_transparent>
+
+135
+00:10:30,755 --> 00:10:33,591
+<c.bg_transparent>Kolonel, apa yang kau lakukan di sini?</c.bg_transparent>
+
+136
+00:10:33,674 --> 00:10:36,302
+<c.bg_transparent>Aku ditugaskan di Central bulan lalu.</c.bg_transparent>
+
+137
+00:10:37,803 --> 00:10:39,889
+<c.bg_transparent>Bagaimana denganmu?</c.bg_transparent>
+<c.bg_transparent>Mengapa kau di sini?</c.bg_transparent>
+
+138
+00:10:40,931 --> 00:10:44,018
+<c.bg_transparent>Kami hanya ingin mengumpulkan informasi.</c.bg_transparent>
+
+139
+00:10:44,310 --> 00:10:47,647
+<c.bg_transparent>Setelah itu, aku ingin mengunjungi</c.bg_transparent>
+<c.bg_transparent>Kolonel Hughes.</c.bg_transparent>
+
+140
+00:10:48,522 --> 00:10:50,274
+<c.bg_transparent>Bagaimana keadaannya?</c.bg_transparent>
+
+141
+00:10:53,319 --> 00:10:55,279
+<c.bg_transparent>- Dia tak ada di sini.</c.bg_transparent>
+<c.bg_transparent>- Apa?</c.bg_transparent>
+
+142
+00:10:56,280 --> 00:10:58,282
+<c.bg_transparent>Dia sudah  pensiun.</c.bg_transparent>
+
+143
+00:10:58,491 --> 00:11:00,326
+<c.bg_transparent>Dia membawa anak dan istrinya</c.bg_transparent>
+
+144
+00:11:01,327 --> 00:11:03,162
+<c.bg_transparent>karena ingin mengurus bisnis keluarga.</c.bg_transparent>
+
+145
+00:11:03,954 --> 00:11:05,706
+<c.bg_transparent>Jadi, dia tak ada di sini.</c.bg_transparent>
+
+146
+00:11:06,332 --> 00:11:08,959
+<c.bg_transparent>Benarkah? Sayang sekali.</c.bg_transparent>
+
+147
+00:11:09,043 --> 00:11:10,670
+<c.bg_transparent>Kami berharap dapat menemuinya.</c.bg_transparent>
+
+148
+00:11:14,548 --> 00:11:16,175
+<c.bg_transparent>Baja.</c.bg_transparent>
+
+149
+00:11:17,009 --> 00:11:20,471
+<c.bg_transparent>Jangan impulsif dan bertindak gegabah.</c.bg_transparent>
+
+150
+00:11:21,847 --> 00:11:22,932
+<c.bg_transparent>Ya.</c.bg_transparent>
+
+151
+00:11:33,859 --> 00:11:36,112
+<c.bg_transparent>Kau akan memperlakukannya</c.bg_transparent>
+<c.bg_transparent>seperti anak kecil?</c.bg_transparent>
+
+152
+00:11:36,946 --> 00:11:38,906
+<c.bg_transparent>Dia tak perlu mengetahuinya sekarang.</c.bg_transparent>
+
+153
+00:11:39,365 --> 00:11:42,493
+<c.bg_transparent>Makin sedikit rintangan</c.bg_transparent>
+<c.bg_transparent>yang mereka hadapi,</c.bg_transparent>
+
+154
+00:11:42,576 --> 00:11:44,370
+<c.bg_transparent>itu makin baik.</c.bg_transparent>
+
+155
+00:11:44,912 --> 00:11:47,498
+<c.bg_transparent>Namun, mereka akan mengetahuinya</c.bg_transparent>
+<c.bg_transparent>suatu hari nanti.</c.bg_transparent>
+
+156
+00:11:49,875 --> 00:11:55,673
+<c.bg_transparent>Bukan posisiku untuk menyebut</c.bg_transparent>
+<c.bg_transparent>Mayor Armstrong itu lemah.</c.bg_transparent>
+
+157
+00:11:57,633 --> 00:11:59,385
+<c.bg_transparent>Apa kau yakin itu suatu kelemahan?</c.bg_transparent>
+
+158
+00:12:01,262 --> 00:12:02,513
+<c.bg_transparent>Itu kejam.</c.bg_transparent>
+
+159
+00:12:03,889 --> 00:12:05,891
+<c.bg_transparent>Kolonel tak ada di sini.</c.bg_transparent>
+
+160
+00:12:05,975 --> 00:12:10,396
+<c.bg_transparent>Benar, Kak. Kita harus memberi tahu Winry.</c.bg_transparent>
+
+161
+00:12:10,479 --> 00:12:12,022
+<c.bg_transparent>Dia pergi ke rumah Tuan Hughes.</c.bg_transparent>
+
+162
+00:12:12,481 --> 00:12:13,816
+<c.bg_transparent>Kau benar.</c.bg_transparent>
+
+163
+00:12:17,570 --> 00:12:18,487
+<c.bg_transparent>Letnan Ross!</c.bg_transparent>
+
+164
+00:12:19,238 --> 00:12:22,742
+<c.bg_transparent>Sudah lama aku tak melihat kalian.</c.bg_transparent>
+<c.bg_transparent>Ada apa?</c.bg_transparent>
+
+165
+00:12:22,992 --> 00:12:25,244
+<c.bg_transparent>Kami mendengar tentang Kolonel Hughes.</c.bg_transparent>
+
+166
+00:12:27,621 --> 00:12:29,498
+<c.bg_transparent>Rasanya sulit, 'kan?</c.bg_transparent>
+
+167
+00:12:29,999 --> 00:12:32,251
+<c.bg_transparent>Ada banyak hal</c.bg_transparent>
+<c.bg_transparent>yang ingin kami katakan kepadanya.</c.bg_transparent>
+
+168
+00:12:32,793 --> 00:12:34,545
+<c.bg_transparent>Setidaknya, ucapan selamat tinggal.</c.bg_transparent>
+
+169
+00:12:35,796 --> 00:12:37,882
+<c.bg_transparent>Kami tak bisa menghubungi kalian.</c.bg_transparent>
+
+170
+00:12:38,674 --> 00:12:42,219
+<c.bg_transparent>Tak apa-apa. Militer telah memberikan</c.bg_transparent>
+<c.bg_transparent>perpisahan yang layak.</c.bg_transparent>
+
+171
+00:12:42,303 --> 00:12:45,931
+<c.bg_transparent>- Mereka sangat baik.</c.bg_transparent>
+<c.bg_transparent>- Itu hal yang biasa.</c.bg_transparent>
+
+172
+00:12:46,932 --> 00:12:51,103
+<c.bg_transparent>Kalian mungkin telah mendengar</c.bg_transparent>
+<c.bg_transparent>bahwa pangkatnya dinaikkan dua tingkat.</c.bg_transparent>
+
+173
+00:12:51,187 --> 00:12:53,689
+<c.bg_transparent>Dia bukan letnan kolonel,</c.bg_transparent>
+<c.bg_transparent>tapi brigadir jenderal.</c.bg_transparent>
+
+174
+00:12:54,440 --> 00:12:55,691
+<c.bg_transparent>Dinaikkan dua tingkat?</c.bg_transparent>
+
+175
+00:12:56,400 --> 00:12:59,028
+<c.bg_transparent>Dia pensiun, tapi dipromosikan?</c.bg_transparent>
+
+176
+00:13:05,367 --> 00:13:06,202
+<c.bg_transparent>Letnan Ross?</c.bg_transparent>
+
+177
+00:13:20,758 --> 00:13:22,301
+<c.bg_transparent>Ini dia.</c.bg_transparent>
+
+178
+00:13:22,635 --> 00:13:23,844
+<c.bg_transparent>Terima kasih.</c.bg_transparent>
+
+179
+00:13:28,933 --> 00:13:29,767
+<c.bg_transparent>Tak mungkin.</c.bg_transparent>
+
+180
+00:13:30,142 --> 00:13:32,561
+<c.bg_transparent>Mengapa ini terjadi?</c.bg_transparent>
+
+181
+00:13:40,069 --> 00:13:40,903
+<c.bg_transparent>Kakak!</c.bg_transparent>
+
+182
+00:13:42,947 --> 00:13:46,742
+<c.bg_transparent><i>Jenderal Hughes dibunuh oleh seseorang</i></c.bg_transparent>
+
+183
+00:13:46,992 --> 00:13:49,411
+<c.bg_transparent><i>setelah kau dikeluarkan</i></c.bg_transparent>
+<c.bg_transparent><i>dari rumah sakit.</i></c.bg_transparent>
+
+184
+00:13:49,495 --> 00:13:52,414
+<c.bg_transparent><i>Kami masih belum bisa</i></c.bg_transparent>
+<c.bg_transparent><i>menangkap tersangkanya.</i></c.bg_transparent>
+
+185
+00:13:54,959 --> 00:13:56,627
+<c.bg_transparent><i>Ini salahku.</i></c.bg_transparent>
+
+186
+00:13:56,710 --> 00:13:59,505
+<c.bg_transparent><i>Akulah yang membuat Kolonel Hughes</i></c.bg_transparent>
+<c.bg_transparent><i>terlibat hal ini!</i></c.bg_transparent>
+
+187
+00:14:14,436 --> 00:14:16,230
+<c.bg_transparent>Baiklah, hati-hati.</c.bg_transparent>
+
+188
+00:14:16,605 --> 00:14:19,191
+<c.bg_transparent>Jika kalian datang ke Central,</c.bg_transparent>
+<c.bg_transparent>beri tahu aku.</c.bg_transparent>
+
+189
+00:14:19,275 --> 00:14:22,278
+<c.bg_transparent>Alphonse, kau tak bisa makan</c.bg_transparent>
+<c.bg_transparent>jika memakai baju zirah itu, 'kan?</c.bg_transparent>
+
+190
+00:14:22,570 --> 00:14:25,823
+<c.bg_transparent>Kalian belum punya tempat tinggal, 'kan?</c.bg_transparent>
+
+191
+00:14:25,906 --> 00:14:27,867
+<c.bg_transparent>Tinggallah bersamaku.</c.bg_transparent>
+
+192
+00:14:45,634 --> 00:14:46,886
+<c.bg_transparent>Ayah!</c.bg_transparent>
+
+193
+00:15:04,486 --> 00:15:06,030
+<c.bg_transparent>Kita harus bagaimana?</c.bg_transparent>
+
+194
+00:15:06,447 --> 00:15:07,907
+<c.bg_transparent>Katakan saja yang semestinya.</c.bg_transparent>
+
+195
+00:15:08,991 --> 00:15:10,492
+<c.bg_transparent>Kita dukung mereka.</c.bg_transparent>
+
+196
+00:15:10,993 --> 00:15:13,495
+<c.bg_transparent>Akulah yang patut disalahkan</c.bg_transparent>
+<c.bg_transparent>atas hal ini.</c.bg_transparent>
+
+197
+00:15:15,456 --> 00:15:19,251
+<c.bg_transparent>Kakak, ini bukan hanya masalahmu,</c.bg_transparent>
+<c.bg_transparent>tapi ini masalah kita.</c.bg_transparent>
+
+198
+00:15:19,919 --> 00:15:22,504
+<c.bg_transparent>Karena itulah, aku juga akan masuk.</c.bg_transparent>
+
+199
+00:15:23,547 --> 00:15:25,633
+<c.bg_transparent>Al, bagaimana jika...</c.bg_transparent>
+
+200
+00:15:25,716 --> 00:15:29,386
+<c.bg_transparent>Kita sudah berjanji untuk mendapatkan</c.bg_transparent>
+<c.bg_transparent>tubuh kita kembali.</c.bg_transparent>
+
+201
+00:15:31,555 --> 00:15:34,224
+<c.bg_transparent>Namun, jika ada yang meninggal</c.bg_transparent>
+<c.bg_transparent>karena kita,</c.bg_transparent>
+
+202
+00:15:34,308 --> 00:15:35,768
+<c.bg_transparent>aku tak ingin tubuhku kembali.</c.bg_transparent>
+
+203
+00:15:43,275 --> 00:15:46,195
+<c.bg_transparent>- Winry ada di dalam.</c.bg_transparent>
+<c.bg_transparent>- Ya.</c.bg_transparent>
+
+204
+00:15:49,073 --> 00:15:49,907
+<c.bg_transparent>Winry.</c.bg_transparent>
+
+205
+00:15:56,080 --> 00:16:02,336
+<c.bg_transparent>Ada sesuatu yang harus kukatakan</c.bg_transparent>
+<c.bg_transparent>kepada Nyonya Gracia.</c.bg_transparent>
+
+206
+00:16:02,419 --> 00:16:04,630
+<c.bg_transparent>- Kepadaku?</c.bg_transparent>
+<c.bg_transparent>- Ya.</c.bg_transparent>
+
+207
+00:16:05,172 --> 00:16:06,006
+<c.bg_transparent>Kau juga, Winry.</c.bg_transparent>
+
+208
+00:16:11,387 --> 00:16:15,724
+<c.bg_transparent>Suamiku mempelajari sesuatu</c.bg_transparent>
+<c.bg_transparent>mengenai Batu Bertuah.</c.bg_transparent>
+
+209
+00:16:16,767 --> 00:16:19,853
+<c.bg_transparent>Kematian suamiku merupakan peringatan</c.bg_transparent>
+<c.bg_transparent>dari para penjahat itu</c.bg_transparent>
+
+210
+00:16:19,937 --> 00:16:22,481
+<c.bg_transparent>agar kau tak ikut campur, 'kan?</c.bg_transparent>
+
+211
+00:16:24,942 --> 00:16:27,569
+<c.bg_transparent>Kami yang telah menyeretnya</c.bg_transparent>
+<c.bg_transparent>dalam masalah ini.</c.bg_transparent>
+
+212
+00:16:27,653 --> 00:16:29,154
+<c.bg_transparent>Maafkan aku.</c.bg_transparent>
+
+213
+00:16:33,867 --> 00:16:34,743
+<c.bg_transparent>Maafkan aku.</c.bg_transparent>
+
+214
+00:16:37,621 --> 00:16:41,500
+<c.bg_transparent>Itu memang sifatnya.</c.bg_transparent>
+<c.bg_transparent>Menderita karena membantu orang lain.</c.bg_transparent>
+
+215
+00:16:42,793 --> 00:16:45,671
+<c.bg_transparent>Dia selalu terlibat masalah</c.bg_transparent>
+<c.bg_transparent>saat mencampuri urusan orang lain,</c.bg_transparent>
+
+216
+00:16:45,754 --> 00:16:47,756
+<c.bg_transparent>dia sangat sibuk.</c.bg_transparent>
+
+217
+00:16:49,341 --> 00:16:52,594
+<c.bg_transparent>Namun, sepertinya</c.bg_transparent>
+<c.bg_transparent>dia tak pernah menyesalinya.</c.bg_transparent>
+
+218
+00:16:53,679 --> 00:16:56,348
+<c.bg_transparent>Bahkan pada saat dia sekarat.</c.bg_transparent>
+
+219
+00:16:58,142 --> 00:16:59,351
+<c.bg_transparent>Kami...</c.bg_transparent>
+
+220
+00:17:00,894 --> 00:17:03,856
+<c.bg_transparent>Jangan katakan bahwa kalian menyerah.</c.bg_transparent>
+<c.bg_transparent>Mengerti?</c.bg_transparent>
+
+221
+00:17:05,107 --> 00:17:07,651
+<c.bg_transparent>Jika kalian menyerah sekarang,</c.bg_transparent>
+
+222
+00:17:07,735 --> 00:17:10,654
+<c.bg_transparent>kematian suamiku akan sia-sia.</c.bg_transparent>
+
+223
+00:17:12,990 --> 00:17:14,324
+<c.bg_transparent>Bahkan</c.bg_transparent>
+
+224
+00:17:14,992 --> 00:17:17,578
+<c.bg_transparent>jika Batu Bertuah itu gagal,</c.bg_transparent>
+<c.bg_transparent>pasti ada cara lain, 'kan?</c.bg_transparent>
+
+225
+00:17:20,539 --> 00:17:21,832
+<c.bg_transparent>Nyonya Gracia...</c.bg_transparent>
+
+226
+00:17:23,709 --> 00:17:28,422
+<c.bg_transparent>Tetap lanjutkan dengan cara</c.bg_transparent>
+<c.bg_transparent>yang bisa kalian terima.</c.bg_transparent>
+
+227
+00:17:34,303 --> 00:17:35,471
+<c.bg_transparent>Ibu...</c.bg_transparent>
+
+228
+00:17:36,221 --> 00:17:38,640
+<c.bg_transparent>Ibu, jangan menangis.</c.bg_transparent>
+
+229
+00:18:39,076 --> 00:18:40,911
+<c.bg_transparent>Winry, apa kau di dalam?</c.bg_transparent>
+
+230
+00:18:44,623 --> 00:18:50,212
+<c.bg_transparent>Kau belum makan, 'kan?</c.bg_transparent>
+<c.bg_transparent>Restorannya akan segera tutup.</c.bg_transparent>
+
+231
+00:18:50,712 --> 00:18:51,839
+<c.bg_transparent>Ya.</c.bg_transparent>
+
+232
+00:18:51,922 --> 00:18:55,300
+<c.bg_transparent>Kau harus makan agar memiliki tenaga.</c.bg_transparent>
+
+233
+00:18:55,634 --> 00:18:56,802
+<c.bg_transparent>Ya.</c.bg_transparent>
+
+234
+00:18:58,220 --> 00:19:00,305
+<c.bg_transparent>Baiklah, aku akan kembali ke kamarku.</c.bg_transparent>
+
+235
+00:19:05,644 --> 00:19:06,478
+<c.bg_transparent>Pai apel?</c.bg_transparent>
+
+236
+00:19:08,063 --> 00:19:11,233
+<c.bg_transparent>Aku berlatih membuatnya beberapa kali.</c.bg_transparent>
+
+237
+00:19:12,192 --> 00:19:15,237
+<c.bg_transparent>Aku benci mengakuinya,</c.bg_transparent>
+<c.bg_transparent>tapi aku makin mahir.</c.bg_transparent>
+
+238
+00:19:17,114 --> 00:19:19,741
+<c.bg_transparent>Meskipun aku tak seandal Nyonya Gracia.</c.bg_transparent>
+
+239
+00:19:21,618 --> 00:19:23,495
+<c.bg_transparent>Suatu hari nanti...</c.bg_transparent>
+
+240
+00:19:24,788 --> 00:19:28,000
+<c.bg_transparent>Aku berharap Tuan Hughes memakannya</c.bg_transparent>
+<c.bg_transparent>suatu hari nanti.</c.bg_transparent>
+
+241
+00:19:46,643 --> 00:19:50,063
+<c.bg_transparent>Katamu, Kolonel mencari tahu</c.bg_transparent>
+<c.bg_transparent>apa yang dilakukan Hughes?</c.bg_transparent>
+
+242
+00:19:50,147 --> 00:19:51,565
+<c.bg_transparent>Ya.</c.bg_transparent>
+
+243
+00:19:51,648 --> 00:19:53,483
+<c.bg_transparent>Mungkin dia menemukan sesuatu.</c.bg_transparent>
+
+244
+00:19:54,276 --> 00:19:56,111
+<c.bg_transparent>Mungkin.</c.bg_transparent>
+
+245
+00:19:57,154 --> 00:19:58,447
+<c.bg_transparent>Kita harus bagaimana?</c.bg_transparent>
+
+246
+00:19:58,822 --> 00:20:03,493
+<c.bg_transparent>Kita pindahkan dia ke Central</c.bg_transparent>
+<c.bg_transparent>agar kita bisa mengawasinya dengan baik.</c.bg_transparent>
+
+247
+00:20:04,203 --> 00:20:06,830
+<c.bg_transparent>Mengapa dia tak bisa menjaga sikapnya?</c.bg_transparent>
+
+248
+00:20:06,914 --> 00:20:09,333
+<c.bg_transparent>Dia kandidat yang penting</c.bg_transparent>
+<c.bg_transparent>untuk dikorbankan.</c.bg_transparent>
+
+249
+00:20:09,917 --> 00:20:12,336
+<c.bg_transparent>Apa kau sudah mendapatkan informasi</c.bg_transparent>
+<c.bg_transparent>dari kekasihmu?</c.bg_transparent>
+
+250
+00:20:12,878 --> 00:20:16,340
+<c.bg_transparent>Belum. Entah karena dia bodoh</c.bg_transparent>
+<c.bg_transparent>atau dia penipu.</c.bg_transparent>
+
+251
+00:20:17,132 --> 00:20:19,718
+<c.bg_transparent>Aku akan mengumpulkan</c.bg_transparent>
+<c.bg_transparent>lebih banyak intelijen.</c.bg_transparent>
+
+252
+00:20:20,302 --> 00:20:22,638
+<c.bg_transparent>Kemarilah, Gluttony.</c.bg_transparent>
+
+253
+00:20:25,641 --> 00:20:29,102
+<c.bg_transparent>Hei, Gluttony! Jangan berantakan begini.</c.bg_transparent>
+
+254
+00:20:29,186 --> 00:20:30,646
+<c.bg_transparent>Astaga.</c.bg_transparent>
+
+255
+00:20:33,065 --> 00:20:34,691
+<c.bg_transparent>Hei, Lust,</c.bg_transparent>
+
+256
+00:20:34,775 --> 00:20:37,861
+<c.bg_transparent>pasti akan menyenangkan</c.bg_transparent>
+<c.bg_transparent>jika Kolonel Api menjaga sikapnya, 'kan?</c.bg_transparent>
+
+257
+00:20:39,279 --> 00:20:40,113
+<c.bg_transparent>Ya.</c.bg_transparent>
+
+258
+00:20:40,697 --> 00:20:43,367
+<c.bg_transparent>Apa kau mau bersandiwara lagi?</c.bg_transparent>
+
+259
+00:20:45,535 --> 00:20:46,870
+<c.bg_transparent>Apa kau punya ide?</c.bg_transparent>
+
+260
+00:20:47,871 --> 00:20:51,875
+<c.bg_transparent>Jika anjingmu berisik,</c.bg_transparent>
+<c.bg_transparent>kau harus memberinya makanan.</c.bg_transparent>
+
+261
+00:20:56,546 --> 00:20:58,340
+<c.bg_transparent>Letnan Dua Maria Ross.</c.bg_transparent>
+
+262
+00:20:59,383 --> 00:21:02,678
+<c.bg_transparent>Henry Douglas, Provos kantor Marshal.</c.bg_transparent>
+
+263
+00:21:03,720 --> 00:21:04,846
+<c.bg_transparent>Ada yang bisa kubantu?</c.bg_transparent>
+
+264
+00:21:05,472 --> 00:21:08,100
+<c.bg_transparent>Kau harus ikut dengan kami.</c.bg_transparent>
+<c.bg_transparent>Serahkan senjatamu.</c.bg_transparent>
+
+265
+00:21:13,188 --> 00:21:14,564
+<c.bg_transparent>Ada masalah apa ini?</c.bg_transparent>
+
+266
+00:21:15,315 --> 00:21:18,318
+<c.bg_transparent>Namamu muncul sebagai saksi mata</c.bg_transparent>
+
+267
+00:21:18,402 --> 00:21:20,195
+<c.bg_transparent>atas kasus pembunuhan Maes Hughes.</c.bg_transparent>
+
+268
+00:21:21,363 --> 00:21:22,656
+<c.bg_transparent>Itu konyol!</c.bg_transparent>
+
+269
+00:21:23,156 --> 00:21:26,159
+<c.bg_transparent>Kau bisa melakukan pembelaan nanti.</c.bg_transparent>
+<c.bg_transparent>Ikutlah dengan kami.</c.bg_transparent>
+
+270
+00:21:30,205 --> 00:21:33,917
+<c.bg_transparent>Letnan Maria Ross mengaku tak bersalah.</c.bg_transparent>
+
+271
+00:21:34,668 --> 00:21:37,170
+<c.bg_transparent>Kumpulkan berkas yang berkaitan dengannya.</c.bg_transparent>
+
+272
+00:21:37,254 --> 00:21:39,798
+<c.bg_transparent>Bergegaslah, tapi lakukan secara rahasia.</c.bg_transparent>
+
+273
+00:21:40,173 --> 00:21:41,508
+<c.bg_transparent>Baik, Pak.</c.bg_transparent>
+
+274
+00:21:50,642 --> 00:21:53,061
+<c.bg_transparent>Nyonya, tolong bungkuskan</c.bg_transparent>
+<c.bg_transparent>bunga ini untukku.</c.bg_transparent>
+
+275
+00:21:53,395 --> 00:21:56,315
+<c.bg_transparent>Astaga, kau ada kencan, Nak?</c.bg_transparent>
+
+276
+00:22:11,872 --> 00:22:13,332
+<c.bg_transparent>Sudah lama menunggu, Solaris?</c.bg_transparent>
+
+277
+00:22:15,083 --> 00:22:17,085
+<c.bg_transparent>Tidak, aku baru saja tiba.</c.bg_transparent>
+
+278
+00:22:17,836 --> 00:22:23,467
+<c.bg_transparent>Aku merindukanmu, Jean.</c.bg_transparent>
+<c.bg_transparent>Ceritakanlah kisah yang menarik.</c.bg_transparent>
+
+279
+00:23:49,553 --> 00:23:53,473
+<c.bg_transparent>Terjemahan subtitel oleh Jasmine</c.bg_transparent>
+

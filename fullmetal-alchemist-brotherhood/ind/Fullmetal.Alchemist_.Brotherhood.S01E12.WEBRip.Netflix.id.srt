@@ -1,0 +1,990 @@
+﻿1
+00:01:30,048 --> 00:01:32,967
+<c.bg_transparent>EPISODE 12, SATU ADALAH SEMUA,</c.bg_transparent>
+<c.bg_transparent>SEMUA ADALAH SATU</c.bg_transparent>
+
+2
+00:01:46,189 --> 00:01:49,609
+<c.bg_transparent>Kak, sebentar lagi kita tiba di Dublith.</c.bg_transparent>
+
+3
+00:01:51,069 --> 00:01:51,986
+<c.bg_transparent>Kau bermimpi?</c.bg_transparent>
+
+4
+00:01:52,946 --> 00:01:55,490
+<c.bg_transparent>Ya, mimpi tentang dia.</c.bg_transparent>
+
+5
+00:02:01,329 --> 00:02:04,791
+<c.bg_transparent>- Akhirnya kita tiba, ya?</c.bg_transparent>
+<c.bg_transparent>- Ya.</c.bg_transparent>
+
+6
+00:02:05,917 --> 00:02:08,419
+<c.bg_transparent>Semoga guru tak di rumah.</c.bg_transparent>
+
+7
+00:02:08,503 --> 00:02:09,462
+<c.bg_transparent>Ya.</c.bg_transparent>
+
+8
+00:02:20,348 --> 00:02:23,434
+<c.bg_transparent>- Ha... Halo.</c.bg_transparent>
+<c.bg_transparent>- Lama tak bertemu.</c.bg_transparent>
+
+9
+00:02:23,893 --> 00:02:26,813
+<c.bg_transparent>Senang kalian datang. Kau sudah besar.</c.bg_transparent>
+
+10
+00:02:26,896 --> 00:02:28,481
+<c.bg_transparent>Kepalaku ditekan...</c.bg_transparent>
+
+11
+00:02:29,065 --> 00:02:33,611
+<c.bg_transparent>Maaf, ini aku, Alphonse.</c.bg_transparent>
+<c.bg_transparent>Maaf kami lama tak mampir.</c.bg_transparent>
+
+12
+00:02:35,738 --> 00:02:37,907
+<c.bg_transparent>Kau sudah besar sekali.</c.bg_transparent>
+
+13
+00:02:38,616 --> 00:02:42,370
+<c.bg_transparent>Ini kali pertama kepalaku dielus</c.bg_transparent>
+<c.bg_transparent>semenjak tubuhku begini.</c.bg_transparent>
+
+14
+00:02:43,371 --> 00:02:48,209
+<c.bg_transparent>Izumi, bocah-bocah Elric datang.</c.bg_transparent>
+<c.bg_transparent>Kau bisa bangun?</c.bg_transparent>
+
+15
+00:02:48,418 --> 00:02:51,546
+<c.bg_transparent>Bisa, hari ini</c.bg_transparent>
+<c.bg_transparent>keadaanku sedikit lebih baik.</c.bg_transparent>
+
+16
+00:02:52,088 --> 00:02:54,257
+<c.bg_transparent>Dia berbaring karena kurang sehat.</c.bg_transparent>
+
+17
+00:02:54,340 --> 00:02:57,010
+<c.bg_transparent>Kurasa keadaannya tak membaik.</c.bg_transparent>
+
+18
+00:03:08,897 --> 00:03:11,191
+<c.bg_transparent>Muridku yang bodoh!</c.bg_transparent>
+
+19
+00:03:11,399 --> 00:03:13,943
+<c.bg_transparent>Kau merendahkan diri jadi anjing militer!</c.bg_transparent>
+
+20
+00:03:19,741 --> 00:03:22,660
+<c.bg_transparent>Guru, begini, itu...</c.bg_transparent>
+
+21
+00:03:23,953 --> 00:03:27,165
+<c.bg_transparent>Al? Kau sudah besar sekali.</c.bg_transparent>
+
+22
+00:03:29,959 --> 00:03:32,295
+<c.bg_transparent>Guru, kelihatannya kau baik...</c.bg_transparent>
+
+23
+00:03:36,341 --> 00:03:37,884
+<c.bg_transparent>Kalian kurang berlatih!</c.bg_transparent>
+
+24
+00:03:39,052 --> 00:03:41,346
+<c.bg_transparent>Kupikir guru sedang sakit.</c.bg_transparent>
+
+25
+00:03:41,429 --> 00:03:44,891
+<c.bg_transparent>Bicara apa kau?</c.bg_transparent>
+<c.bg_transparent>Sekarang kalian di sini, aku...</c.bg_transparent>
+
+26
+00:03:48,937 --> 00:03:50,855
+<c.bg_transparent>Jangan paksakan diri.</c.bg_transparent>
+
+27
+00:03:51,272 --> 00:03:54,943
+<c.bg_transparent>Kau perhatian sekali, Sayang.</c.bg_transparent>
+
+28
+00:03:59,364 --> 00:04:01,908
+<c.bg_transparent>Aku tak tahu apa-apa soal Batu Bertuah.</c.bg_transparent>
+
+29
+00:04:02,283 --> 00:04:03,743
+<c.bg_transparent>Aku juga tak tertarik.</c.bg_transparent>
+
+30
+00:04:03,910 --> 00:04:05,411
+<c.bg_transparent>Begitu, ya.</c.bg_transparent>
+
+31
+00:04:06,287 --> 00:04:10,667
+<c.bg_transparent>Waktu ke Central, kau bertemu ahli alkimia</c.bg_transparent>
+<c.bg_transparent>yang tahu soal batu itu, 'kan?</c.bg_transparent>
+
+32
+00:04:12,627 --> 00:04:13,628
+<c.bg_transparent>Siapa dia?</c.bg_transparent>
+
+33
+00:04:14,128 --> 00:04:17,382
+<c.bg_transparent>Kalau tak salah namanya</c.bg_transparent>
+
+34
+00:04:17,465 --> 00:04:19,008
+<c.bg_transparent>Hohenheim.</c.bg_transparent>
+
+35
+00:04:29,310 --> 00:04:30,186
+<c.bg_transparent>Kenapa?</c.bg_transparent>
+
+36
+00:04:31,271 --> 00:04:32,689
+<c.bg_transparent>Berarti dia masih hidup.</c.bg_transparent>
+
+37
+00:04:33,273 --> 00:04:34,607
+<c.bg_transparent>Kau mengenalnya?</c.bg_transparent>
+
+38
+00:04:35,650 --> 00:04:37,068
+<c.bg_transparent>Dia ayah kami.</c.bg_transparent>
+
+39
+00:04:38,278 --> 00:04:39,862
+<c.bg_transparent>Yang meninggalkan kalian?</c.bg_transparent>
+
+40
+00:04:40,446 --> 00:04:41,406
+<c.bg_transparent>Bajingan itu!</c.bg_transparent>
+
+41
+00:04:43,908 --> 00:04:49,205
+<c.bg_transparent>Ibu meninggal karena dia. Dia penyebabnya!</c.bg_transparent>
+
+42
+00:04:54,168 --> 00:04:57,588
+<c.bg_transparent>Ya, ampun.</c.bg_transparent>
+<c.bg_transparent>Kenapa sudah bangun sepagi ini?</c.bg_transparent>
+
+43
+00:04:59,674 --> 00:05:01,843
+<c.bg_transparent>Al bilang ingin buang air.</c.bg_transparent>
+
+44
+00:05:01,926 --> 00:05:03,970
+<c.bg_transparent>Kau pintar mengurus adikmu, ya?</c.bg_transparent>
+
+45
+00:05:04,053 --> 00:05:06,014
+<c.bg_transparent>Terima kasih, Ed.</c.bg_transparent>
+
+46
+00:05:31,914 --> 00:05:33,583
+<c.bg_transparent>Bu, ayah di mana?</c.bg_transparent>
+
+47
+00:05:37,670 --> 00:05:38,588
+<c.bg_transparent>Sudah pergi.</c.bg_transparent>
+
+48
+00:05:38,671 --> 00:05:40,506
+<c.bg_transparent>Kapan dia kembali?</c.bg_transparent>
+
+49
+00:05:45,762 --> 00:05:47,305
+<c.bg_transparent>Kitik-kitik.</c.bg_transparent>
+
+50
+00:05:50,308 --> 00:05:52,060
+<c.bg_transparent>Sebentar lagi dia pulang.</c.bg_transparent>
+
+51
+00:05:52,727 --> 00:05:54,687
+<c.bg_transparent>Sekarang ayo cepat makan.</c.bg_transparent>
+
+52
+00:05:58,399 --> 00:05:59,692
+<c.bg_transparent>Ibu...</c.bg_transparent>
+
+53
+00:06:01,694 --> 00:06:02,945
+<c.bg_transparent>Ibu...</c.bg_transparent>
+
+54
+00:06:04,906 --> 00:06:06,449
+<c.bg_transparent>Ibu!</c.bg_transparent>
+
+55
+00:06:13,498 --> 00:06:14,332
+<c.bg_transparent>Ibu!</c.bg_transparent>
+
+56
+00:06:26,969 --> 00:06:30,473
+<c.bg_transparent>Apa yang ayah katakan soal batu itu?</c.bg_transparent>
+
+57
+00:06:31,057 --> 00:06:33,726
+<c.bg_transparent>Soal impian lamanya akan segera terwujud.</c.bg_transparent>
+
+58
+00:06:33,976 --> 00:06:35,770
+<c.bg_transparent>Dia senang saat mengatakannya.</c.bg_transparent>
+
+59
+00:06:40,316 --> 00:06:42,110
+<c.bg_transparent>Ayo makan!</c.bg_transparent>
+
+60
+00:06:42,193 --> 00:06:43,820
+<c.bg_transparent>Baik.</c.bg_transparent>
+
+61
+00:06:49,117 --> 00:06:50,410
+<c.bg_transparent>Kau tak makan, Al?</c.bg_transparent>
+
+62
+00:06:50,868 --> 00:06:54,122
+<c.bg_transparent>Tidak, di kereta tadi</c.bg_transparent>
+<c.bg_transparent>aku sudah banyak makan.</c.bg_transparent>
+
+63
+00:06:54,205 --> 00:06:58,709
+<c.bg_transparent>Hei, Al, ingat kita menyaksikan</c.bg_transparent>
+<c.bg_transparent>kelahiran anak itu di Rush Valley?</c.bg_transparent>
+
+64
+00:06:58,793 --> 00:07:03,714
+<c.bg_transparent>Ya. Guru, kami membantu persalinan!</c.bg_transparent>
+
+65
+00:07:03,798 --> 00:07:07,718
+<c.bg_transparent>Bodoh. Mana bisa itu disebut "membantu"?</c.bg_transparent>
+
+66
+00:07:08,428 --> 00:07:11,973
+<c.bg_transparent>Seluruh keluarga membantu</c.bg_transparent>
+<c.bg_transparent>dan si ibu mempertaruhkan nyawa.</c.bg_transparent>
+
+67
+00:07:12,056 --> 00:07:15,476
+<c.bg_transparent>Seorang anak terlahir berkat itu semua.</c.bg_transparent>
+
+68
+00:07:16,018 --> 00:07:17,061
+<c.bg_transparent>Benar.</c.bg_transparent>
+
+69
+00:07:17,728 --> 00:07:20,148
+<c.bg_transparent>Kalian pun terlahir seperti itu.</c.bg_transparent>
+
+70
+00:07:20,398 --> 00:07:22,483
+<c.bg_transparent>Bersyukurlah atas kehidupan kalian.</c.bg_transparent>
+
+71
+00:07:31,826 --> 00:07:33,828
+<c.bg_transparent>- Kak.</c.bg_transparent>
+<c.bg_transparent>- Ya?</c.bg_transparent>
+
+72
+00:07:34,162 --> 00:07:35,746
+<c.bg_transparent>Guru tak berubah, ya?</c.bg_transparent>
+
+73
+00:07:36,289 --> 00:07:39,500
+<c.bg_transparent>Ya. Dia tak berubah sama sekali.</c.bg_transparent>
+
+74
+00:07:49,343 --> 00:07:52,263
+<c.bg_transparent>- Ayo tutup!</c.bg_transparent>
+<c.bg_transparent>- Bawakan lagi!</c.bg_transparent>
+
+75
+00:07:52,346 --> 00:07:55,433
+<c.bg_transparent>Tanggul mulai terkikis!</c.bg_transparent>
+
+76
+00:08:01,230 --> 00:08:03,608
+<c.bg_transparent>Jebol! Lari ke area lebih tinggi!</c.bg_transparent>
+
+77
+00:08:04,317 --> 00:08:06,110
+<c.bg_transparent>Kak. Lihat.</c.bg_transparent>
+
+78
+00:08:10,031 --> 00:08:11,866
+<c.bg_transparent>Hei. Bahaya!</c.bg_transparent>
+
+79
+00:08:38,351 --> 00:08:40,061
+<c.bg_transparent>Ini tahan untuk sementara.</c.bg_transparent>
+
+80
+00:08:41,812 --> 00:08:43,064
+<c.bg_transparent>Kau siapa?</c.bg_transparent>
+
+81
+00:08:43,731 --> 00:08:46,108
+<c.bg_transparent>Hanya seorang istri yang sedang lewat.</c.bg_transparent>
+
+82
+00:08:52,365 --> 00:08:54,200
+<c.bg_transparent>Angkat kami jadi muridmu, Bi!</c.bg_transparent>
+
+83
+00:09:00,206 --> 00:09:01,457
+<c.bg_transparent>Kami mohon, Bi!</c.bg_transparent>
+
+84
+00:09:01,916 --> 00:09:05,503
+<c.bg_transparent>Telingaku sedikit tersumbat.</c.bg_transparent>
+<c.bg_transparent>Aku tak dengar.</c.bg_transparent>
+
+85
+00:09:05,586 --> 00:09:07,672
+<c.bg_transparent>Bisa katakan sekali lagi?</c.bg_transparent>
+
+86
+00:09:08,548 --> 00:09:10,258
+<c.bg_transparent>Kami ralat!</c.bg_transparent>
+
+87
+00:09:10,341 --> 00:09:12,468
+<c.bg_transparent>Jadikan kami muridmu, Kak!</c.bg_transparent>
+
+88
+00:09:12,552 --> 00:09:14,595
+<c.bg_transparent>- Tidak!</c.bg_transparent>
+<c.bg_transparent>- Kenapa?</c.bg_transparent>
+
+89
+00:09:14,679 --> 00:09:16,389
+<c.bg_transparent>Aku tak menginginkan murid.</c.bg_transparent>
+
+90
+00:09:16,472 --> 00:09:17,848
+<c.bg_transparent>Aku juga harus kembali.</c.bg_transparent>
+
+91
+00:09:17,932 --> 00:09:20,184
+<c.bg_transparent>- Kumohon!</c.bg_transparent>
+<c.bg_transparent>- Tolong terima kami!</c.bg_transparent>
+
+92
+00:09:21,018 --> 00:09:23,479
+<c.bg_transparent>Astaga! Orang tua kalian izinkan?</c.bg_transparent>
+
+93
+00:09:23,563 --> 00:09:26,232
+<c.bg_transparent>Begini, mereka tak punya orang tua.</c.bg_transparent>
+
+94
+00:09:32,363 --> 00:09:34,448
+<c.bg_transparent>Lemah sekali aku ini.</c.bg_transparent>
+
+95
+00:09:43,708 --> 00:09:45,251
+<c.bg_transparent>Bertahan hiduplah di sini.</c.bg_transparent>
+
+96
+00:09:47,044 --> 00:09:48,754
+<c.bg_transparent>Ini latihan percobaan.</c.bg_transparent>
+
+97
+00:09:48,838 --> 00:09:51,090
+<c.bg_transparent>Jika lulus, lanjut latihan sebenarnya.</c.bg_transparent>
+
+98
+00:09:51,173 --> 00:09:54,427
+<c.bg_transparent>Selama latihan ini,</c.bg_transparent>
+<c.bg_transparent>dilarang memakai alkimia!</c.bg_transparent>
+
+99
+00:09:56,304 --> 00:10:01,309
+<c.bg_transparent>"Satu adalah semua, semua adalah satu."</c.bg_transparent>
+<c.bg_transparent>Cari jawabannya dalam sebulan.</c.bg_transparent>
+
+100
+00:10:02,184 --> 00:10:05,980
+<c.bg_transparent>Jika tak temukan,</c.bg_transparent>
+<c.bg_transparent>kupulangkan kalian ke Resembool!</c.bg_transparent>
+
+101
+00:10:08,816 --> 00:10:09,734
+<c.bg_transparent>Sampai nanti.</c.bg_transparent>
+
+102
+00:10:14,405 --> 00:10:17,158
+<c.bg_transparent>Apa-apaan ini?</c.bg_transparent>
+
+103
+00:10:21,495 --> 00:10:23,539
+<c.bg_transparent>Aku lapar.</c.bg_transparent>
+
+104
+00:10:23,623 --> 00:10:26,500
+<c.bg_transparent>Aku mau tidur di kasur empuk.</c.bg_transparent>
+
+105
+00:10:33,174 --> 00:10:36,510
+<c.bg_transparent>Mana bisa ini disebut latihan alkimia?</c.bg_transparent>
+
+106
+00:10:40,765 --> 00:10:44,018
+<c.bg_transparent>Aku lapar sekali.</c.bg_transparent>
+
+107
+00:10:47,813 --> 00:10:49,857
+<c.bg_transparent>Mereka baik-baik saja, 'kan?</c.bg_transparent>
+
+108
+00:10:50,816 --> 00:10:53,611
+<c.bg_transparent>"Tak ada pengetahuan tanpa pengalaman."</c.bg_transparent>
+
+109
+00:10:53,944 --> 00:10:58,574
+<c.bg_transparent>Ini cara yang terbaik</c.bg_transparent>
+<c.bg_transparent>untuk memahami dasar alkimia.</c.bg_transparent>
+
+110
+00:10:59,283 --> 00:11:01,035
+<c.bg_transparent>Jika tak belajar apa pun,</c.bg_transparent>
+
+111
+00:11:01,702 --> 00:11:04,538
+<c.bg_transparent>artinya bakat mereka sampai di sana saja,</c.bg_transparent>
+
+112
+00:11:04,872 --> 00:11:06,457
+<c.bg_transparent>pengangkatan murid batal.</c.bg_transparent>
+
+113
+00:11:09,752 --> 00:11:13,464
+<c.bg_transparent>Aku mengkhawatirkan nyawa mereka.</c.bg_transparent>
+
+114
+00:11:13,881 --> 00:11:16,008
+<c.bg_transparent>Di pelatihanku dahulu,</c.bg_transparent>
+
+115
+00:11:16,133 --> 00:11:19,053
+<c.bg_transparent>aku sebulan di Gunung Briggs</c.bg_transparent>
+<c.bg_transparent>saat musim dingin.</c.bg_transparent>
+
+116
+00:11:20,054 --> 00:11:22,807
+<c.bg_transparent>Jangan bandingkan dirimu</c.bg_transparent>
+<c.bg_transparent>dengan orang biasa.</c.bg_transparent>
+
+117
+00:11:22,890 --> 00:11:24,850
+<c.bg_transparent>Makanan di pulau itu berlimpah.</c.bg_transparent>
+
+118
+00:11:24,934 --> 00:11:27,228
+<c.bg_transparent><i>Mereka tak akan mati.</i></c.bg_transparent>
+
+119
+00:11:30,272 --> 00:11:31,607
+<c.bg_transparent>Dapat!</c.bg_transparent>
+
+120
+00:11:33,025 --> 00:11:35,111
+<c.bg_transparent>Bagaimana cara kita memakannya?</c.bg_transparent>
+
+121
+00:11:36,404 --> 00:11:39,240
+<c.bg_transparent>- Kita sembelih dahulu.</c.bg_transparent>
+<c.bg_transparent>- Sembelih?</c.bg_transparent>
+
+122
+00:11:48,332 --> 00:11:50,793
+<c.bg_transparent>Tidak mau, Kakak saja.</c.bg_transparent>
+
+123
+00:11:50,876 --> 00:11:52,670
+<c.bg_transparent>Aku hanya pintar menangkapnya.</c.bg_transparent>
+
+124
+00:11:52,753 --> 00:11:55,548
+<c.bg_transparent>Kakak selalu memberiku tugas sulit!</c.bg_transparent>
+
+125
+00:12:01,011 --> 00:12:02,096
+<c.bg_transparent>Tunggu!</c.bg_transparent>
+
+126
+00:12:11,272 --> 00:12:12,732
+<c.bg_transparent>Anak-anak rubah...</c.bg_transparent>
+
+127
+00:12:16,527 --> 00:12:19,113
+<c.bg_transparent>Lupakan daging, kita cari ikan saja.</c.bg_transparent>
+
+128
+00:12:23,117 --> 00:12:25,369
+<c.bg_transparent>Bagaimana cara menangkapnya?</c.bg_transparent>
+
+129
+00:12:25,453 --> 00:12:28,497
+<c.bg_transparent>Tak ada pancingan, senar, atau kail!</c.bg_transparent>
+
+130
+00:12:36,505 --> 00:12:40,968
+<c.bg_transparent>Tak ada makanan dan perapian.</c.bg_transparent>
+<c.bg_transparent>Tak ada apa pun.</c.bg_transparent>
+
+131
+00:12:41,051 --> 00:12:42,678
+<c.bg_transparent>Jangan bicara begitu.</c.bg_transparent>
+
+132
+00:13:18,798 --> 00:13:20,174
+<c.bg_transparent>Sakit!</c.bg_transparent>
+
+133
+00:13:20,257 --> 00:13:22,635
+<c.bg_transparent>Apa yang kau lakukan, Kak?</c.bg_transparent>
+
+134
+00:13:31,977 --> 00:13:33,604
+<c.bg_transparent>Kak.</c.bg_transparent>
+
+135
+00:13:39,985 --> 00:13:41,862
+<c.bg_transparent>Pedas!</c.bg_transparent>
+
+136
+00:13:47,409 --> 00:13:50,246
+<c.bg_transparent>Aku hidup.</c.bg_transparent>
+
+137
+00:13:51,330 --> 00:13:53,541
+<c.bg_transparent>Aku hidup karena memakan semut.</c.bg_transparent>
+
+138
+00:13:59,880 --> 00:14:02,424
+<c.bg_transparent><i>Aku hidup karena memakan yang hidup.</i></c.bg_transparent>
+
+139
+00:14:04,301 --> 00:14:05,511
+<c.bg_transparent>Aku hidup...</c.bg_transparent>
+
+140
+00:14:08,639 --> 00:14:10,766
+<c.bg_transparent>- Kita tak akan mati!</c.bg_transparent>
+<c.bg_transparent>- Ya!</c.bg_transparent>
+
+141
+00:14:19,275 --> 00:14:20,609
+<c.bg_transparent>Maaf, ya.</c.bg_transparent>
+
+142
+00:14:26,323 --> 00:14:28,701
+<c.bg_transparent>Sedikit lagi, Kak.</c.bg_transparent>
+
+143
+00:14:35,833 --> 00:14:37,251
+<c.bg_transparent>Berhasil!</c.bg_transparent>
+
+144
+00:14:58,230 --> 00:15:00,691
+<c.bg_transparent>Besok genap sebulan, ya?</c.bg_transparent>
+
+145
+00:15:01,400 --> 00:15:07,323
+<c.bg_transparent>Kak, sudah temukan jawaban</c.bg_transparent>
+<c.bg_transparent>"Satu adalah semua, semua adalah satu"?</c.bg_transparent>
+
+146
+00:15:09,116 --> 00:15:11,493
+<c.bg_transparent>Aku terus memikirkannya,</c.bg_transparent>
+
+147
+00:15:11,577 --> 00:15:13,996
+<c.bg_transparent>tapi masih belum paham juga.</c.bg_transparent>
+
+148
+00:15:14,663 --> 00:15:16,707
+<c.bg_transparent>Aku tak begitu yakin,</c.bg_transparent>
+
+149
+00:15:17,207 --> 00:15:21,462
+<c.bg_transparent>tapi ingat saat aku lemas karena lapar</c.bg_transparent>
+<c.bg_transparent>dan makan semut?</c.bg_transparent>
+
+150
+00:15:21,545 --> 00:15:24,882
+<c.bg_transparent>- Kau memakannya?</c.bg_transparent>
+<c.bg_transparent>- Ya, aku memakannya.</c.bg_transparent>
+
+151
+00:15:24,965 --> 00:15:26,717
+<c.bg_transparent>Pedas sekali.</c.bg_transparent>
+
+152
+00:15:27,176 --> 00:15:31,889
+<c.bg_transparent>Tapi kemudian kupikir,</c.bg_transparent>
+<c.bg_transparent>kalau aku tak memakannya dan mati,</c.bg_transparent>
+
+153
+00:15:31,972 --> 00:15:34,016
+<c.bg_transparent>aku akan dimakan semut atau rubah.</c.bg_transparent>
+
+154
+00:15:34,516 --> 00:15:36,936
+<c.bg_transparent>Tubuhku hancur, jadi gizi bagi tanaman.</c.bg_transparent>
+
+155
+00:15:37,019 --> 00:15:38,771
+<c.bg_transparent>Tanaman itu dimakan kelinci.</c.bg_transparent>
+
+156
+00:15:38,854 --> 00:15:43,025
+<c.bg_transparent>- Rantai makanan, ya?</c.bg_transparent>
+<c.bg_transparent>- Ya, tapi bukan hanya itu.</c.bg_transparent>
+
+157
+00:15:43,317 --> 00:15:47,655
+<c.bg_transparent>Dahulu pulau ini mungkin berada</c.bg_transparent>
+<c.bg_transparent>di dasar lautan.</c.bg_transparent>
+
+158
+00:15:47,738 --> 00:15:51,909
+<c.bg_transparent>Mungkin beribu tahun kemudian</c.bg_transparent>
+<c.bg_transparent>akan menjadi puncak gunung.</c.bg_transparent>
+
+159
+00:15:52,076 --> 00:15:54,536
+<c.bg_transparent>Jadi, maksudnya semuanya terhubung?</c.bg_transparent>
+
+160
+00:15:54,828 --> 00:15:59,541
+<c.bg_transparent>Semuanya berada di tengah aliran</c.bg_transparent>
+<c.bg_transparent>luar biasa dan tak kasat mata.</c.bg_transparent>
+
+161
+00:15:59,875 --> 00:16:03,754
+<c.bg_transparent>Entah disebut jagad raya,</c.bg_transparent>
+<c.bg_transparent>dunia, atau apa pun.</c.bg_transparent>
+
+162
+00:16:04,505 --> 00:16:09,510
+<c.bg_transparent>Dengan hal yang luar biasa luas itu,</c.bg_transparent>
+<c.bg_transparent>aku dan Al hanya seperti semut.</c.bg_transparent>
+
+163
+00:16:10,010 --> 00:16:13,013
+<c.bg_transparent>Bagian kecil dalam aliran besar itu.</c.bg_transparent>
+
+164
+00:16:13,180 --> 00:16:15,766
+<c.bg_transparent>Satu di dalam semua.</c.bg_transparent>
+
+165
+00:16:16,058 --> 00:16:19,561
+<c.bg_transparent>Dengan bersatunya satu bagian itu,</c.bg_transparent>
+
+166
+00:16:19,645 --> 00:16:24,858
+<c.bg_transparent>terciptalah "semua"...</c.bg_transparent>
+
+167
+00:16:28,278 --> 00:16:29,697
+<c.bg_transparent>Hari perjanjian tiba.</c.bg_transparent>
+
+168
+00:16:29,780 --> 00:16:33,033
+<c.bg_transparent>Katakan apa arti</c.bg_transparent>
+<c.bg_transparent>"Satu adalah semua, semua adalah satu."</c.bg_transparent>
+
+169
+00:16:33,575 --> 00:16:35,035
+<c.bg_transparent>"Semua" adalah dunia.</c.bg_transparent>
+
+170
+00:16:35,119 --> 00:16:36,537
+<c.bg_transparent>"Satu" adalah aku!</c.bg_transparent>
+
+171
+00:16:41,500 --> 00:16:43,544
+<c.bg_transparent>Baik, latihan sebenarnya dimulai.</c.bg_transparent>
+
+172
+00:16:44,712 --> 00:16:46,463
+<c.bg_transparent>Bagus!</c.bg_transparent>
+
+173
+00:16:49,633 --> 00:16:52,594
+<c.bg_transparent>Lingkaran transmutasi</c.bg_transparent>
+<c.bg_transparent>dasar kekuatan rekonstruksi.</c.bg_transparent>
+
+174
+00:16:53,012 --> 00:16:55,681
+<c.bg_transparent>Lingkaran itu menunjukkan rotasi kekuatan.</c.bg_transparent>
+
+175
+00:16:55,764 --> 00:17:00,853
+<c.bg_transparent>Kau bisa bangkitkan kekuatan itu dengan</c.bg_transparent>
+<c.bg_transparent>gambar rumus rekonstruksi di lingkaran.</c.bg_transparent>
+
+176
+00:17:07,985 --> 00:17:09,737
+<c.bg_transparent>Ini juga rotasi kekuatan.</c.bg_transparent>
+
+177
+00:17:10,279 --> 00:17:11,488
+<c.bg_transparent>TERKESIAP</c.bg_transparent>
+
+178
+00:17:11,572 --> 00:17:13,198
+<c.bg_transparent>Lebih baik rasakan sendiri.</c.bg_transparent>
+
+179
+00:17:19,747 --> 00:17:24,126
+<c.bg_transparent>Ya, ampun. Ulangi pelajaran kalian</c.bg_transparent>
+<c.bg_transparent>sampai makan siang siap.</c.bg_transparent>
+
+180
+00:17:25,878 --> 00:17:29,923
+<c.bg_transparent>Baiklah. Lingkaran menujukkan</c.bg_transparent>
+<c.bg_transparent>rotasi kekuatan.</c.bg_transparent>
+
+181
+00:17:30,007 --> 00:17:32,593
+<c.bg_transparent>Kau bisa membangkitkan kekuatan itu</c.bg_transparent>
+
+182
+00:17:32,676 --> 00:17:35,471
+<c.bg_transparent>dengan gambar rumus rekonstruksi</c.bg_transparent>
+<c.bg_transparent>di lingkaran.</c.bg_transparent>
+
+183
+00:17:36,680 --> 00:17:40,309
+<c.bg_transparent>Tapi Guru mentransmutasi</c.bg_transparent>
+<c.bg_transparent>hanya dengan menyatukan kedua tangan.</c.bg_transparent>
+
+184
+00:17:42,936 --> 00:17:45,064
+<c.bg_transparent>Guru tak menggambar rumusnya?</c.bg_transparent>
+
+185
+00:17:47,024 --> 00:17:50,069
+<c.bg_transparent>Mungkin aku sendiri rumus rekonstruksinya.</c.bg_transparent>
+
+186
+00:17:50,152 --> 00:17:51,987
+<c.bg_transparent>Bagaimana caranya bisa begitu?</c.bg_transparent>
+
+187
+00:17:55,532 --> 00:17:58,994
+<c.bg_transparent>Mungkin kau bisa melakukannya</c.bg_transparent>
+<c.bg_transparent>saat kau temukan kebenaran.</c.bg_transparent>
+
+188
+00:18:04,666 --> 00:18:06,752
+<c.bg_transparent>Guru juga sudah melihat kebenaran.</c.bg_transparent>
+
+189
+00:18:17,930 --> 00:18:20,265
+<c.bg_transparent>Jadi, kalian mau tanyakan apa?</c.bg_transparent>
+
+190
+00:18:20,349 --> 00:18:21,934
+<c.bg_transparent>Itu...</c.bg_transparent>
+
+191
+00:18:36,532 --> 00:18:39,034
+<c.bg_transparent>Kau transmutasi tanpa gambar lingkaran.</c.bg_transparent>
+
+192
+00:18:41,120 --> 00:18:43,413
+<c.bg_transparent>Alphonse hanya baju besi kosong.</c.bg_transparent>
+
+193
+00:18:43,497 --> 00:18:45,958
+<c.bg_transparent>Tangan kanan dan kaki kirimu automail.</c.bg_transparent>
+
+194
+00:18:46,041 --> 00:18:47,376
+<c.bg_transparent>Guru, bagaimana kau...</c.bg_transparent>
+
+195
+00:18:47,459 --> 00:18:49,503
+<c.bg_transparent>Aku tahu dari latihan kita!</c.bg_transparent>
+
+196
+00:18:51,505 --> 00:18:53,507
+<c.bg_transparent>Kau melihatnya, 'kan?</c.bg_transparent>
+
+197
+00:18:55,759 --> 00:18:58,428
+<c.bg_transparent>- Kau lihat, 'kan?</c.bg_transparent>
+<c.bg_transparent>- Ya!</c.bg_transparent>
+
+198
+00:19:01,849 --> 00:19:04,059
+<c.bg_transparent>Memalukan. Guru dan murid sama saja.</c.bg_transparent>
+
+199
+00:19:14,361 --> 00:19:17,489
+<c.bg_transparent>Guru, karena kau melihatnya...</c.bg_transparent>
+
+200
+00:19:57,154 --> 00:20:00,866
+<c.bg_transparent>Kami tampaknya tak bisa punya anak.</c.bg_transparent>
+
+201
+00:20:02,534 --> 00:20:06,580
+<c.bg_transparent>Saat akhirnya aku bisa mengandung,</c.bg_transparent>
+<c.bg_transparent>aku jatuh sakit.</c.bg_transparent>
+
+202
+00:20:08,832 --> 00:20:13,503
+<c.bg_transparent>Anak kami tak bisa terlahir selamat,</c.bg_transparent>
+
+203
+00:20:14,338 --> 00:20:15,255
+<c.bg_transparent>karena itu</c.bg_transparent>
+
+204
+00:20:16,048 --> 00:20:17,507
+<c.bg_transparent>aku melakukan hal tabu</c.bg_transparent>
+
+205
+00:20:19,635 --> 00:20:22,346
+<c.bg_transparent>dan akibatnya,</c.bg_transparent>
+<c.bg_transparent>beberapa organ tubuhku diambil.</c.bg_transparent>
+
+206
+00:20:23,305 --> 00:20:25,349
+<c.bg_transparent>Aku benar-benar bodoh.</c.bg_transparent>
+
+207
+00:20:30,979 --> 00:20:33,690
+<c.bg_transparent>Harusnya kuberi tahu sejak dahulu, ya?</c.bg_transparent>
+
+208
+00:20:35,859 --> 00:20:37,611
+<c.bg_transparent>Pasti kalian menderita.</c.bg_transparent>
+
+209
+00:20:41,073 --> 00:20:43,408
+<c.bg_transparent>Tidak, kami sendiri yang cari masalah.</c.bg_transparent>
+
+210
+00:20:43,951 --> 00:20:45,911
+<c.bg_transparent>Kami tak merasa menderita.</c.bg_transparent>
+
+211
+00:20:45,994 --> 00:20:47,788
+<c.bg_transparent>Justru aku jadi menantikan</c.bg_transparent>
+
+212
+00:20:47,871 --> 00:20:51,625
+<c.bg_transparent>akan makan atau lakukan apa</c.bg_transparent>
+<c.bg_transparent>usai tubuhku kembali.</c.bg_transparent>
+
+213
+00:20:53,335 --> 00:20:55,170
+<c.bg_transparent>- Ya, 'kan, Kak?</c.bg_transparent>
+<c.bg_transparent>- Ya.</c.bg_transparent>
+
+214
+00:20:55,254 --> 00:20:56,672
+<c.bg_transparent>Benar sekali.</c.bg_transparent>
+
+215
+00:20:56,797 --> 00:20:58,840
+<c.bg_transparent>Dasar bodoh.</c.bg_transparent>
+
+216
+00:21:03,553 --> 00:21:05,305
+<c.bg_transparent>Tak perlu berlagak kuat.</c.bg_transparent>
+
+217
+00:21:19,236 --> 00:21:20,612
+<c.bg_transparent>Maaf.</c.bg_transparent>
+
+218
+00:21:21,780 --> 00:21:23,615
+<c.bg_transparent>- Maafkan kami.</c.bg_transparent>
+<c.bg_transparent>- Maaf.</c.bg_transparent>
+
+219
+00:21:25,200 --> 00:21:27,077
+<c.bg_transparent>- Maafkan kami.</c.bg_transparent>
+<c.bg_transparent>- Maaf.</c.bg_transparent>
+
+220
+00:21:27,577 --> 00:21:30,247
+<c.bg_transparent>- Maafkan kami.</c.bg_transparent>
+<c.bg_transparent>- Maaf.</c.bg_transparent>
+
+221
+00:21:34,543 --> 00:21:36,586
+<c.bg_transparent>Dunia ini mengalir</c.bg_transparent>
+
+222
+00:21:36,712 --> 00:21:39,756
+<c.bg_transparent>mengikuti hukum besar</c.bg_transparent>
+<c.bg_transparent>yang tak mampu kita bayangkan.</c.bg_transparent>
+
+223
+00:21:40,257 --> 00:21:44,511
+<c.bg_transparent>Pelajari aliran itu, hancurkan,</c.bg_transparent>
+<c.bg_transparent>lalu bangun kembali.</c.bg_transparent>
+
+224
+00:21:44,803 --> 00:21:46,513
+<c.bg_transparent>Itulah alkimia.</c.bg_transparent>
+
+225
+00:21:46,972 --> 00:21:49,891
+<c.bg_transparent>Hidup pun seperti itu.</c.bg_transparent>
+
+226
+00:21:50,600 --> 00:21:54,896
+<c.bg_transparent>Dasar alkimia adalah</c.bg_transparent>
+<c.bg_transparent>dekonstruksi dan rekonstruksi.</c.bg_transparent>
+
+227
+00:21:54,980 --> 00:21:57,190
+<c.bg_transparent>Sama seperti rantai makanan, ya.</c.bg_transparent>
+
+228
+00:21:57,274 --> 00:22:00,402
+<c.bg_transparent>Saat memakan kelinci,</c.bg_transparent>
+<c.bg_transparent>kau menghancurkan dagingnya</c.bg_transparent>
+
+229
+00:22:00,485 --> 00:22:02,904
+<c.bg_transparent>dan menjadikannya bagian dari tubuhmu.</c.bg_transparent>
+
+230
+00:22:02,988 --> 00:22:04,072
+<c.bg_transparent>Sama seperti itu,</c.bg_transparent>
+
+231
+00:22:04,156 --> 00:22:07,534
+<c.bg_transparent>kelinci jadikan rumput</c.bg_transparent>
+<c.bg_transparent>sebagai gizi dalam tubuhnya.</c.bg_transparent>
+
+232
+00:22:08,410 --> 00:22:12,539
+<c.bg_transparent>Alkimia adalah hidup itu sendiri.</c.bg_transparent>
+
+233
+00:22:43,028 --> 00:22:45,030
+<c.bg_transparent>Terjemahan subtitel oleh Decyana</c.bg_transparent>
+

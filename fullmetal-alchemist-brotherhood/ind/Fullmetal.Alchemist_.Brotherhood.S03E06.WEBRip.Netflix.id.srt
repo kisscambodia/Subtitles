@@ -1,0 +1,1105 @@
+﻿1
+00:01:31,007 --> 00:01:34,260
+<c.bg_transparent>- Benar.</c.bg_transparent>
+<c.bg_transparent>- Ini hampir mirip dengannya.</c.bg_transparent>
+
+2
+00:01:42,185 --> 00:01:44,437
+<c.bg_transparent>Menggemaskan, bukan?</c.bg_transparent>
+
+3
+00:01:45,730 --> 00:01:48,608
+<c.bg_transparent>- Itu bukan dia!</c.bg_transparent>
+<c.bg_transparent>- Aku tahu!</c.bg_transparent>
+
+4
+00:01:48,691 --> 00:01:52,779
+<c.bg_transparent>Kita tak punya banyak waktu</c.bg_transparent>
+<c.bg_transparent>untuk lelucon seperti ini!</c.bg_transparent>
+
+5
+00:01:55,365 --> 00:01:56,199
+<c.bg_transparent>Sebenarnya...</c.bg_transparent>
+
+6
+00:01:56,825 --> 00:01:58,785
+<c.bg_transparent>Ada di mana dia?</c.bg_transparent>
+
+7
+00:02:13,883 --> 00:02:16,594
+<c.bg_transparent><i>East City!</i></c.bg_transparent>
+
+8
+00:02:25,478 --> 00:02:28,857
+<c.bg_transparent>- Informasi terbaru Scar.</c.bg_transparent>
+<c.bg_transparent>- Dia masih melarikan diri?</c.bg_transparent>
+
+9
+00:02:29,107 --> 00:02:31,151
+<c.bg_transparent>Dia pantang menyerah.</c.bg_transparent>
+
+10
+00:02:34,112 --> 00:02:36,906
+<c.bg_transparent>Astaga,</c.bg_transparent>
+<c.bg_transparent>maafkan aku.</c.bg_transparent>
+
+11
+00:02:36,990 --> 00:02:39,826
+<c.bg_transparent>Tidak. Aku yang minta maaf</c.bg_transparent>
+<c.bg_transparent>karena tak melihat.</c.bg_transparent>
+
+12
+00:02:41,244 --> 00:02:45,290
+<c.bg_transparent>Pakaianmu cukup aneh.</c.bg_transparent>
+<c.bg_transparent>Kau dari negara lain?</c.bg_transparent>
+
+13
+00:02:45,456 --> 00:02:49,419
+<c.bg_transparent>- Aku dari Xing.</c.bg_transparent>
+<c.bg_transparent>- Astaga. Kau sedang jalan-jalan, ya?</c.bg_transparent>
+
+14
+00:02:49,794 --> 00:02:52,881
+<c.bg_transparent>Tak banyak yang bisa dilihat</c.bg_transparent>
+<c.bg_transparent>di East City.</c.bg_transparent>
+
+15
+00:02:52,964 --> 00:02:55,967
+<c.bg_transparent>Tidak, aku hanya berpindah kereta.</c.bg_transparent>
+
+16
+00:02:56,885 --> 00:02:58,636
+<c.bg_transparent>Aku mau menuju utara.</c.bg_transparent>
+
+17
+00:02:58,720 --> 00:03:00,680
+<c.bg_transparent><i>Kereta North City akan berangkat.</i></c.bg_transparent>
+
+18
+00:03:00,763 --> 00:03:01,639
+<c.bg_transparent>Oh tidak!</c.bg_transparent>
+
+19
+00:03:01,723 --> 00:03:05,268
+<c.bg_transparent><i>-</i></c.bg_transparent><c.bg_transparent> </c.bg_transparent><c.bg_transparent><i>Para penumpang harap naik.</i></c.bg_transparent>
+<c.bg_transparent>- Terima kasih, nyonya.</c.bg_transparent>
+
+20
+00:03:05,351 --> 00:03:06,186
+<c.bg_transparent>Hati-hati.</c.bg_transparent>
+
+21
+00:03:16,279 --> 00:03:18,531
+<c.bg_transparent>Kucing yang aneh.</c.bg_transparent>
+
+22
+00:03:41,346 --> 00:03:45,141
+<c.bg_transparent>- Ke mana dia?</c.bg_transparent>
+<c.bg_transparent>- Aku yakin mendengar langkah kaki.</c.bg_transparent>
+
+23
+00:03:49,854 --> 00:03:50,939
+<c.bg_transparent>Di sebelah sana!</c.bg_transparent>
+
+24
+00:04:07,163 --> 00:04:10,750
+<c.bg_transparent><i>Dia bersama pria paruh baya</i></c.bg_transparent>
+<c.bg_transparent><i>berambut hitam, 'kan?</i></c.bg_transparent>
+
+25
+00:04:10,833 --> 00:04:13,253
+<c.bg_transparent>Ya, itu laporan yang didapat.</c.bg_transparent>
+
+26
+00:04:19,425 --> 00:04:20,927
+<c.bg_transparent>Kemarin di sini.</c.bg_transparent>
+
+27
+00:04:25,932 --> 00:04:27,225
+<c.bg_transparent>Ke barat, ya?</c.bg_transparent>
+
+28
+00:04:27,642 --> 00:04:30,728
+<c.bg_transparent>Beberapa orang terluka</c.bg_transparent>
+<c.bg_transparent>di berbagai tingkatan di sini.</c.bg_transparent>
+
+29
+00:04:31,646 --> 00:04:33,731
+<c.bg_transparent>Scar pasti mulai putus asa.</c.bg_transparent>
+
+30
+00:04:34,357 --> 00:04:36,025
+<c.bg_transparent>Harus kukatakan,</c.bg_transparent>
+
+31
+00:04:37,402 --> 00:04:39,112
+<c.bg_transparent>dia terlalu mecolok.</c.bg_transparent>
+
+32
+00:04:44,200 --> 00:04:47,745
+<c.bg_transparent>Kalau begitu,</c.bg_transparent>
+<c.bg_transparent>kita mulai bekerja.</c.bg_transparent>
+
+33
+00:05:14,397 --> 00:05:18,735
+<c.bg_transparent>Aku tak peduli.</c.bg_transparent>
+<c.bg_transparent>Itu bukan urusanku.</c.bg_transparent>
+
+34
+00:05:38,171 --> 00:05:40,757
+<c.bg_transparent>Terlihat seperti pemakaman.</c.bg_transparent>
+
+35
+00:05:42,050 --> 00:05:44,302
+<c.bg_transparent>Ya, memang begitu.</c.bg_transparent>
+
+36
+00:05:44,886 --> 00:05:46,888
+<c.bg_transparent>Mengerikan.</c.bg_transparent>
+
+37
+00:05:47,013 --> 00:05:48,639
+<c.bg_transparent>Saat kau seusiaku,</c.bg_transparent>
+
+38
+00:05:48,723 --> 00:05:52,810
+<c.bg_transparent>yang akan kau pikirkan</c.bg_transparent>
+<c.bg_transparent>kapan dirimu akan berakhir seperti ini.</c.bg_transparent>
+
+39
+00:05:53,019 --> 00:05:57,523
+<c.bg_transparent>Apa yang kau bicarakan, Nyonya?</c.bg_transparent>
+<c.bg_transparent>Kau masih terlihat muda.</c.bg_transparent>
+
+40
+00:06:05,406 --> 00:06:07,241
+<c.bg_transparent>Jenderal Grumman?</c.bg_transparent>
+
+41
+00:06:09,118 --> 00:06:13,331
+<c.bg_transparent>Dulu kita juga bertemu di depan</c.bg_transparent>
+<c.bg_transparent>pemakaman Jenderal Hughes, 'kan?</c.bg_transparent>
+
+42
+00:06:14,957 --> 00:06:19,837
+<c.bg_transparent>Kupikir itu hal yang serius,</c.bg_transparent>
+<c.bg_transparent>karena kau memutuskan upaya terakhir.</c.bg_transparent>
+
+43
+00:06:19,921 --> 00:06:23,299
+<c.bg_transparent>Kulakukan penyamaran agar aman.</c.bg_transparent>
+
+44
+00:06:23,549 --> 00:06:27,178
+<c.bg_transparent>Karena itu kau dikenal eksentrik,</c.bg_transparent>
+<c.bg_transparent>Jenderal Grumman.</c.bg_transparent>
+
+45
+00:06:27,261 --> 00:06:28,846
+<c.bg_transparent>Aku tak menduga itu.</c.bg_transparent>
+
+46
+00:06:28,930 --> 00:06:34,560
+<c.bg_transparent>Eksentrik?</c.bg_transparent>
+<c.bg_transparent>Akan kuanggap itu sebagai pujian.</c.bg_transparent>
+
+47
+00:06:35,144 --> 00:06:36,854
+<c.bg_transparent>Ada masalah apa?</c.bg_transparent>
+
+48
+00:06:38,356 --> 00:06:39,649
+<c.bg_transparent>Alkimia Timur...</c.bg_transparent>
+
+49
+00:06:40,108 --> 00:06:43,361
+<c.bg_transparent>Kita harus mencari informasinya</c.bg_transparent>
+<c.bg_transparent>di Perpustakaan Pusat.</c.bg_transparent>
+
+50
+00:06:43,444 --> 00:06:44,529
+<c.bg_transparent>Ya.</c.bg_transparent>
+
+51
+00:06:44,612 --> 00:06:47,115
+<c.bg_transparent>Karena tak bisa menemukan</c.bg_transparent>
+<c.bg_transparent>gadis pendek itu,</c.bg_transparent>
+
+52
+00:06:47,198 --> 00:06:49,450
+<c.bg_transparent>kita harus mencarinya sendiri.</c.bg_transparent>
+
+53
+00:06:49,534 --> 00:06:52,036
+<c.bg_transparent>Semoga kita dapat petunjuk</c.bg_transparent>
+<c.bg_transparent>sekecil apa pun.</c.bg_transparent>
+
+54
+00:06:54,414 --> 00:06:58,626
+<c.bg_transparent>Begitu. Jadi itu semua kesalahan</c.bg_transparent>
+<c.bg_transparent>staf senior Pusat, ya?</c.bg_transparent>
+
+55
+00:06:59,460 --> 00:07:03,297
+<c.bg_transparent>Kau kehilangan banyak sekali informasi.</c.bg_transparent>
+
+56
+00:07:04,215 --> 00:07:06,634
+<c.bg_transparent><i>Dengan perginya</i></c.bg_transparent>
+<c.bg_transparent><i>orang-orang kepercayaanmu,</i></c.bg_transparent>
+
+57
+00:07:06,717 --> 00:07:08,636
+<c.bg_transparent><i>kau tak bisa ke mana pun.</i></c.bg_transparent>
+
+58
+00:07:10,054 --> 00:07:12,056
+<c.bg_transparent>Ya. Aku tak tahu</c.bg_transparent>
+<c.bg_transparent>harus berkata apa.</c.bg_transparent>
+
+59
+00:07:12,723 --> 00:07:15,226
+<c.bg_transparent>Bahkan Raven juga.</c.bg_transparent>
+
+60
+00:07:16,477 --> 00:07:23,025
+<c.bg_transparent>Beberapa waktu lalu, saat aku di Central,</c.bg_transparent>
+<c.bg_transparent>Raven bertanya kepadaku</c.bg_transparent>
+
+61
+00:07:23,609 --> 00:07:26,612
+<c.bg_transparent><i>apakah aku tertarik</i></c.bg_transparent>
+<c.bg_transparent><i>dengan prajurit abadi?</i></c.bg_transparent>
+
+62
+00:07:29,073 --> 00:07:30,450
+<c.bg_transparent>Prajurit abadi?</c.bg_transparent>
+
+63
+00:07:32,410 --> 00:07:34,328
+<c.bg_transparent><i>Maksudnya Homunculus?</i></c.bg_transparent>
+
+64
+00:07:35,413 --> 00:07:38,249
+<c.bg_transparent>Kubilang keabadian itu mustahil,</c.bg_transparent>
+<c.bg_transparent>lalu menolaknya.</c.bg_transparent>
+
+65
+00:07:38,875 --> 00:07:41,085
+<c.bg_transparent>Kemudian setelah itu,</c.bg_transparent>
+
+66
+00:07:42,044 --> 00:07:44,505
+<c.bg_transparent>aku ditempatkan</c.bg_transparent>
+<c.bg_transparent>di Pusat Komando Timur.</c.bg_transparent>
+
+67
+00:07:44,797 --> 00:07:46,466
+<c.bg_transparent>Kau diturunkan?</c.bg_transparent>
+
+68
+00:07:47,258 --> 00:07:50,303
+<c.bg_transparent>Hasilnya aku terjebak</c.bg_transparent>
+<c.bg_transparent>membereskan segala kekacauan</c.bg_transparent>
+
+69
+00:07:50,386 --> 00:07:53,055
+<c.bg_transparent>yang menjengkelkan</c.bg_transparent>
+<c.bg_transparent>di Wilayah Timur.</c.bg_transparent>
+
+70
+00:07:54,098 --> 00:07:58,394
+<c.bg_transparent>Bicara soal menjengkelkan,</c.bg_transparent>
+<c.bg_transparent>kau ingat pemberontakan di Liore?</c.bg_transparent>
+
+71
+00:07:59,812 --> 00:08:01,939
+<c.bg_transparent><i>Kasus pendeta palsu</i></c.bg_transparent>
+<c.bg_transparent><i>dari rencana Leto</i></c.bg_transparent>
+
+72
+00:08:02,023 --> 00:08:05,276
+<c.bg_transparent><i>yang dibongkar</i></c.bg_transparent>
+<c.bg_transparent><i>oleh Fullmetal Alchemist.</i></c.bg_transparent>
+
+73
+00:08:05,735 --> 00:08:07,904
+<c.bg_transparent><i>Ya, aku ingat.</i></c.bg_transparent>
+
+74
+00:08:10,573 --> 00:08:17,121
+<c.bg_transparent>Liore menjadi kacau, tetapi di tahap awal,</c.bg_transparent>
+<c.bg_transparent>pasukan Timur bertindak dengan cepat</c.bg_transparent>
+
+75
+00:08:17,205 --> 00:08:19,582
+<c.bg_transparent>dan berhasil mengendalikan</c.bg_transparent>
+<c.bg_transparent>pemberontakan.</c.bg_transparent>
+
+76
+00:08:19,999 --> 00:08:25,963
+<c.bg_transparent>Tetapi, pasukan Central datang,</c.bg_transparent>
+<c.bg_transparent>dan pasukan Timur dibubarkan.</c.bg_transparent>
+
+77
+00:08:26,589 --> 00:08:29,175
+<c.bg_transparent>- Bukan begitu?</c.bg_transparent>
+<c.bg_transparent>- Ya.</c.bg_transparent>
+
+78
+00:08:30,927 --> 00:08:36,516
+<c.bg_transparent>Kedamaian di Liore langsung hancur</c.bg_transparent>
+<c.bg_transparent>sejak Pasukan Central datang.</c.bg_transparent>
+
+79
+00:08:37,642 --> 00:08:41,729
+<c.bg_transparent>Kira-kira apa yang direncanakan</c.bg_transparent>
+<c.bg_transparent>para pasukan Central?</c.bg_transparent>
+
+80
+00:08:42,271 --> 00:08:43,523
+<c.bg_transparent>Ah, sudahlah!</c.bg_transparent>
+
+81
+00:08:43,731 --> 00:08:47,860
+<c.bg_transparent>Tak bisakah mereka berdamai</c.bg_transparent>
+<c.bg_transparent>dan tenang sampai aku pensiun?</c.bg_transparent>
+
+82
+00:08:48,361 --> 00:08:50,112
+<c.bg_transparent>Mulai lagi lelucon itu.</c.bg_transparent>
+
+83
+00:08:50,821 --> 00:08:53,324
+<c.bg_transparent>Orang sepertimu, Jenderal Grumman</c.bg_transparent>
+
+84
+00:08:53,824 --> 00:08:57,537
+<c.bg_transparent>pasti merasa belum puas</c.bg_transparent>
+<c.bg_transparent>jadi kepala di beberapa wilayah, bukan?</c.bg_transparent>
+
+85
+00:08:58,246 --> 00:09:01,541
+<c.bg_transparent>Kau punya banyak prajurit tangguh</c.bg_transparent>
+<c.bg_transparent>di Ishval,</c.bg_transparent>
+
+86
+00:09:01,624 --> 00:09:04,210
+<c.bg_transparent>saat dirimu memimpin Pasukan Timur.</c.bg_transparent>
+
+87
+00:09:09,090 --> 00:09:11,050
+<c.bg_transparent>Kupikir kau meminta pertolonganku</c.bg_transparent>
+
+88
+00:09:11,133 --> 00:09:14,762
+<c.bg_transparent>saat melihat catatan bertuliskan</c.bg_transparent>
+<c.bg_transparent>nomor kontak rahasiaku,</c.bg_transparent>
+
+89
+00:09:15,096 --> 00:09:18,474
+<c.bg_transparent>ternyata kau memanggilku</c.bg_transparent>
+<c.bg_transparent>untuk memberi tugas?</c.bg_transparent>
+
+90
+00:09:19,267 --> 00:09:24,397
+<c.bg_transparent>Berkat keadaan Central</c.bg_transparent>
+<c.bg_transparent>yang semakin menarik,</c.bg_transparent>
+
+91
+00:09:24,647 --> 00:09:30,027
+<c.bg_transparent>ambisiku yang sempat padam,</c.bg_transparent>
+<c.bg_transparent>kini kembali membara.</c.bg_transparent>
+
+92
+00:09:30,987 --> 00:09:34,282
+<c.bg_transparent>Jangan terlalu bersemangat,</c.bg_transparent>
+<c.bg_transparent>riasanmu bisa retak, nyonya.</c.bg_transparent>
+
+93
+00:09:34,365 --> 00:09:36,117
+<c.bg_transparent>Oh, aku lupa!</c.bg_transparent>
+
+94
+00:09:39,161 --> 00:09:41,038
+<c.bg_transparent>Kau punya waktu luang?</c.bg_transparent>
+
+95
+00:09:41,414 --> 00:09:43,499
+<c.bg_transparent>Aku ingin mengajakmu minum teh.</c.bg_transparent>
+
+96
+00:09:43,624 --> 00:09:47,295
+<c.bg_transparent>Maaf. Tapi terima kasih</c.bg_transparent>
+<c.bg_transparent>atas undangannya.</c.bg_transparent>
+
+97
+00:10:02,018 --> 00:10:03,102
+<c.bg_transparent>Percuma.</c.bg_transparent>
+
+98
+00:10:04,103 --> 00:10:07,481
+<c.bg_transparent>Kenapa tak ada informasi</c.bg_transparent>
+<c.bg_transparent>mengenai alkimia timur di sini</c.bg_transparent>
+
+99
+00:10:09,025 --> 00:10:12,278
+<c.bg_transparent>Mungkin kami harus ke Xing</c.bg_transparent>
+<c.bg_transparent>dan mempelajarinya langsung.</c.bg_transparent>
+
+100
+00:10:13,195 --> 00:10:17,325
+<c.bg_transparent>Tapi itu artinya aku harus melintasi</c.bg_transparent>
+<c.bg_transparent>padang pasir dengan automail.</c.bg_transparent>
+
+101
+00:10:28,753 --> 00:10:31,714
+<c.bg_transparent>Ketemu kau, Edward Eldric.</c.bg_transparent>
+
+102
+00:10:33,299 --> 00:10:35,885
+<c.bg_transparent>Mayor!</c.bg_transparent>
+<c.bg_transparent>Sedang apa kau?</c.bg_transparent>
+
+103
+00:10:35,968 --> 00:10:38,596
+<c.bg_transparent>Jangan berisik di perpustakaan.</c.bg_transparent>
+
+104
+00:10:40,765 --> 00:10:45,478
+<c.bg_transparent>Aku tahu kau sedang mencari</c.bg_transparent>
+<c.bg_transparent>gadis Xing dan kucing hitam-putihnya.</c.bg_transparent>
+
+105
+00:10:47,063 --> 00:10:48,481
+<c.bg_transparent>Dari mana kau tahu?</c.bg_transparent>
+
+106
+00:10:49,273 --> 00:10:54,987
+<c.bg_transparent>Kolonel Mustang memberitahuku.</c.bg_transparent>
+<c.bg_transparent>Hari ini aku jadi pesuruhnya.</c.bg_transparent>
+
+107
+00:10:55,071 --> 00:10:57,865
+<c.bg_transparent>Katanya gadis itu pergi ke utara.</c.bg_transparent>
+
+108
+00:10:58,616 --> 00:11:03,663
+<c.bg_transparent>Menurut saksi mata, dia pergi</c.bg_transparent>
+<c.bg_transparent>dari East City menuju utara.</c.bg_transparent>
+
+109
+00:11:04,789 --> 00:11:06,582
+<c.bg_transparent>Utara, ya?</c.bg_transparent>
+<c.bg_transparent>Baiklah!</c.bg_transparent>
+
+110
+00:11:06,666 --> 00:11:08,584
+<c.bg_transparent>Dengan begitu, aku bisa beraksi!</c.bg_transparent>
+
+111
+00:11:08,668 --> 00:11:12,171
+<c.bg_transparent>Terima kasih, Mayor.</c.bg_transparent>
+<c.bg_transparent>Sampaikan juga kepada, Kolonel.</c.bg_transparent>
+
+112
+00:11:12,338 --> 00:11:14,298
+<c.bg_transparent>Tunggu dulu.</c.bg_transparent>
+<c.bg_transparent>Jangan terburu-buru.</c.bg_transparent>
+
+113
+00:11:17,259 --> 00:11:18,594
+<c.bg_transparent>Bawa ini.</c.bg_transparent>
+
+114
+00:11:20,054 --> 00:11:21,055
+<c.bg_transparent>Apa itu?</c.bg_transparent>
+
+115
+00:11:21,555 --> 00:11:25,309
+<c.bg_transparent>Surat pengantar.</c.bg_transparent>
+<c.bg_transparent>Mungkin tak akan berguna.</c.bg_transparent>
+
+116
+00:11:26,185 --> 00:11:27,311
+<c.bg_transparent>Pertama, temui dia.</c.bg_transparent>
+
+117
+00:11:28,187 --> 00:11:30,189
+<c.bg_transparent>Temui dia?</c.bg_transparent>
+<c.bg_transparent>Dia siapa?</c.bg_transparent>
+
+118
+00:11:32,066 --> 00:11:34,777
+<c.bg_transparent><i>Jauh ke utara</i></c.bg_transparent>
+<c.bg_transparent><i>dari Pusat Komando Utara</i></c.bg_transparent>
+
+119
+00:11:35,528 --> 00:11:40,282
+<c.bg_transparent><i>ada seorang Jenderal melindungi</i></c.bg_transparent>
+<c.bg_transparent><i>garis pertahanan kita dengan Drachma,</i></c.bg_transparent>
+
+120
+00:11:42,326 --> 00:11:44,870
+<c.bg_transparent><i>dijuluki sebagai</i></c.bg_transparent>
+<c.bg_transparent><i>Dinding Utara dari Briggs.</i></c.bg_transparent>
+
+121
+00:12:00,094 --> 00:12:00,928
+<c.bg_transparent>Cepat!</c.bg_transparent>
+
+122
+00:12:02,888 --> 00:12:04,890
+<c.bg_transparent>Scar, kau tak bisa ke mana-mana!</c.bg_transparent>
+
+123
+00:12:31,876 --> 00:12:33,085
+<c.bg_transparent>Ke mana mereka?</c.bg_transparent>
+
+124
+00:12:37,506 --> 00:12:41,218
+<c.bg_transparent>Laporkan ini ke komando pusat!</c.bg_transparent>
+<c.bg_transparent>Kereta itu menuju ke </c.bg_transparent><c.bg_transparent><i>West City</i></c.bg_transparent><c.bg_transparent>!</c.bg_transparent>
+
+125
+00:12:41,844 --> 00:12:43,220
+<c.bg_transparent>Sial!</c.bg_transparent>
+
+126
+00:12:46,307 --> 00:12:49,977
+<c.bg_transparent>Aku tak menemukan apa pun</c.bg_transparent>
+<c.bg_transparent>mengenai alkimia timur.</c.bg_transparent>
+
+127
+00:12:51,061 --> 00:12:54,732
+<c.bg_transparent><i>Alkimia jarak jauh gadis itu</i></c.bg_transparent>
+<c.bg_transparent><i>sungguh luar biasa.</i></c.bg_transparent>
+
+128
+00:12:55,775 --> 00:12:57,902
+<c.bg_transparent>Kuharap kami bisa menggunakannya.</c.bg_transparent>
+
+129
+00:12:58,277 --> 00:13:02,448
+<c.bg_transparent>Seharusnya kutanyakan kepadanya</c.bg_transparent>
+<c.bg_transparent>saat berada di rumah Dr. Knocs.</c.bg_transparent>
+
+130
+00:13:03,491 --> 00:13:07,119
+<c.bg_transparent>Ling bilang itu teknik khusus</c.bg_transparent>
+<c.bg_transparent>untuk tujuan medis.</c.bg_transparent>
+
+131
+00:13:13,125 --> 00:13:17,129
+<c.bg_transparent>Apakah kau adik dari </c.bg_transparent><c.bg_transparent><i>Fullmetal Alchemist</i></c.bg_transparent><c.bg_transparent>,</c.bg_transparent>
+<c.bg_transparent>yang bertubuh baja itu?</c.bg_transparent>
+
+132
+00:13:18,255 --> 00:13:20,549
+<c.bg_transparent>- Ya, itu aku.</c.bg_transparent>
+<c.bg_transparent>- Hebat!</c.bg_transparent>
+
+133
+00:13:24,011 --> 00:13:27,473
+<c.bg_transparent>Terima kasih. Tapi kau harus tenang,</c.bg_transparent>
+<c.bg_transparent>ini perpustakaan.</c.bg_transparent>
+
+134
+00:13:27,681 --> 00:13:29,058
+<c.bg_transparent>Oh, maaf.</c.bg_transparent>
+
+135
+00:13:30,184 --> 00:13:34,146
+<c.bg_transparent>- Apa yang sedang kau pelajari?</c.bg_transparent>
+<c.bg_transparent>- Alkimia Timur.</c.bg_transparent>
+
+136
+00:13:34,647 --> 00:13:38,317
+<c.bg_transparent>- Alkimia Timur?</c.bg_transparent>
+<c.bg_transparent>- Alkimia dari negara Xing.</c.bg_transparent>
+
+137
+00:13:38,859 --> 00:13:41,195
+<c.bg_transparent>Negara Xing?</c.bg_transparent>
+
+138
+00:13:41,987 --> 00:13:44,490
+<c.bg_transparent>Tapi kau Eldric Bersaudara</c.bg_transparent>
+<c.bg_transparent>sudah cukup ahli</c.bg_transparent>
+
+139
+00:13:44,573 --> 00:13:47,660
+<c.bg_transparent>untuk meraih sertifikat</c.bg_transparent>
+<c.bg_transparent>di Amestris,</c.bg_transparent>
+
+140
+00:13:47,743 --> 00:13:50,746
+<c.bg_transparent>negara dengan alkimia terkuatnya,</c.bg_transparent>
+<c.bg_transparent>bukan?</c.bg_transparent>
+
+141
+00:13:51,330 --> 00:13:55,626
+<c.bg_transparent>Lalu kenapa kau mencari</c.bg_transparent>
+<c.bg_transparent>alkimia di negara lain?</c.bg_transparent>
+
+142
+00:13:57,336 --> 00:14:02,633
+<c.bg_transparent><i>Aku tak bisa bilang sedang mencari tubuhku</i></c.bg_transparent>
+<c.bg_transparent><i>dan cara melawan Homunculus...</i></c.bg_transparent>
+
+143
+00:14:03,008 --> 00:14:05,135
+<c.bg_transparent><i>kepadanya.</i></c.bg_transparent>
+
+144
+00:14:06,637 --> 00:14:11,308
+<c.bg_transparent>Alkimia Timur itu</c.bg_transparent>
+<c.bg_transparent>digunakan untuk tujuan medis.</c.bg_transparent>
+
+145
+00:14:11,392 --> 00:14:13,978
+<c.bg_transparent>Aku sedang meneliti</c.bg_transparent>
+<c.bg_transparent>kemungkinan teknik baru</c.bg_transparent>
+
+146
+00:14:14,311 --> 00:14:17,523
+<c.bg_transparent>untuk menyelamatkan</c.bg_transparent>
+<c.bg_transparent>nyawa orang.</c.bg_transparent>
+
+147
+00:14:18,190 --> 00:14:21,110
+<c.bg_transparent>Sudah kuduga Eldric Bersaudara</c.bg_transparent>
+<c.bg_transparent>benar-benar hebat.</c.bg_transparent>
+
+148
+00:14:21,193 --> 00:14:25,197
+<c.bg_transparent>Al! Alphonse!</c.bg_transparent>
+<c.bg_transparent>Bersiaplah! Kita pergi sekarang!</c.bg_transparent>
+
+149
+00:14:25,447 --> 00:14:30,160
+<c.bg_transparent>Kakak, jangan berisik.</c.bg_transparent>
+<c.bg_transparent>Lagipula kita mau pergi ke mana?</c.bg_transparent>
+
+150
+00:14:30,244 --> 00:14:32,997
+<c.bg_transparent>Akan kujelaskan di jalan.</c.bg_transparent>
+<c.bg_transparent>Kita harus berangkat.</c.bg_transparent>
+
+151
+00:14:33,080 --> 00:14:36,333
+<c.bg_transparent>Kemasi barang-barang kita di hotel.</c.bg_transparent>
+
+152
+00:14:37,293 --> 00:14:38,294
+<c.bg_transparent>Siapa anak ini?</c.bg_transparent>
+
+153
+00:14:40,629 --> 00:14:43,924
+<c.bg_transparent>Jika kau kakaknya Tn. Baja,</c.bg_transparent>
+<c.bg_transparent>berarti namamu Edward, 'kan?</c.bg_transparent>
+
+154
+00:14:44,008 --> 00:14:45,676
+<c.bg_transparent>- </c.bg_transparent><c.bg_transparent><i>State Alchemist</i></c.bg_transparent><c.bg_transparent>?</c.bg_transparent>
+<c.bg_transparent>- Ya.</c.bg_transparent>
+
+155
+00:14:46,760 --> 00:14:49,722
+<c.bg_transparent>Seperti yang orang bilang,</c.bg_transparent>
+<c.bg_transparent>kau ahli alkimia kecil!</c.bg_transparent>
+
+156
+00:14:50,097 --> 00:14:51,473
+<c.bg_transparent>Apa?</c.bg_transparent>
+
+157
+00:14:51,682 --> 00:14:54,935
+<c.bg_transparent>Dasar kau anak nakal!</c.bg_transparent>
+
+158
+00:14:55,019 --> 00:14:56,770
+<c.bg_transparent>Katakan lagi.</c.bg_transparent>
+
+159
+00:14:56,854 --> 00:14:58,480
+<c.bg_transparent>Coba katakan sekali lagi</c.bg_transparent>
+
+160
+00:14:58,564 --> 00:15:02,276
+<c.bg_transparent>akan kulempar kau ke Neptunus!</c.bg_transparent>
+
+161
+00:15:02,693 --> 00:15:06,071
+<c.bg_transparent>Seperti yang orang bilang, kau marah</c.bg_transparent>
+<c.bg_transparent>jika dipanggil kecil.</c.bg_transparent>
+
+162
+00:15:09,033 --> 00:15:13,037
+<c.bg_transparent>- Menjauhlah dari Tuan Selim.</c.bg_transparent>
+<c.bg_transparent>- Jangan tembak dia.</c.bg_transparent>
+
+163
+00:15:14,038 --> 00:15:19,293
+<c.bg_transparent>- Kau, Selim Bradley?</c.bg_transparent>
+<c.bg_transparent>- Putra Fuhrer?</c.bg_transparent>
+
+164
+00:15:20,294 --> 00:15:21,712
+<c.bg_transparent>Ya, kalian benar.</c.bg_transparent>
+
+165
+00:15:29,678 --> 00:15:33,849
+<c.bg_transparent>Kenapa jadi begini?</c.bg_transparent>
+<c.bg_transparent>Seharusnya kita pergi ke utara.</c.bg_transparent>
+
+166
+00:15:34,058 --> 00:15:37,895
+<c.bg_transparent>- Aku pun tak mengerti.</c.bg_transparent>
+<c.bg_transparent>- Maaf, ya.</c.bg_transparent>
+
+167
+00:15:38,646 --> 00:15:41,523
+<c.bg_transparent>Anak ini sudah lama sekali</c.bg_transparent>
+<c.bg_transparent>mengagumimu, Edward.</c.bg_transparent>
+
+168
+00:15:42,358 --> 00:15:46,695
+<c.bg_transparent>- Mengagumiku?</c.bg_transparent>
+<c.bg_transparent>- Selim, kau menyukai Alkimia?</c.bg_transparent>
+
+169
+00:15:46,946 --> 00:15:49,531
+<c.bg_transparent>Ya, impianku adalah</c.bg_transparent>
+<c.bg_transparent>mempelajari alkima</c.bg_transparent>
+
+170
+00:15:49,615 --> 00:15:53,661
+<c.bg_transparent>dan menjadi </c.bg_transparent><c.bg_transparent><i>State Alchemist</i></c.bg_transparent>
+<c.bg_transparent>seperti Edward.</c.bg_transparent>
+
+171
+00:15:53,744 --> 00:15:55,412
+<c.bg_transparent>Dia mengagumiku.</c.bg_transparent>
+
+172
+00:15:55,704 --> 00:15:58,290
+<c.bg_transparent>Lalu aku ingin membantu ayahku.</c.bg_transparent>
+
+173
+00:16:02,753 --> 00:16:04,046
+<c.bg_transparent>Apakah kau...</c.bg_transparent>
+
+174
+00:16:05,381 --> 00:16:08,300
+<c.bg_transparent>menyukai Fuhrer King Bradley,</c.bg_transparent>
+<c.bg_transparent>ayahmu?</c.bg_transparent>
+
+175
+00:16:08,384 --> 00:16:10,052
+<c.bg_transparent>Tentu saja.</c.bg_transparent>
+
+176
+00:16:10,678 --> 00:16:14,974
+<c.bg_transparent>- Seperti apa ayahmu itu?</c.bg_transparent>
+<c.bg_transparent>- Ayahku itu orang yang baik.</c.bg_transparent>
+
+177
+00:16:15,057 --> 00:16:18,352
+<c.bg_transparent>Ayah mampu bertahan</c.bg_transparent>
+<c.bg_transparent>dalam mengemban tugasnya,</c.bg_transparent>
+
+178
+00:16:18,560 --> 00:16:22,189
+<c.bg_transparent>serta bertindak dan memikirkan</c.bg_transparent>
+<c.bg_transparent>rakyatnya setiap hari.</c.bg_transparent>
+
+179
+00:16:22,982 --> 00:16:24,733
+<c.bg_transparent>Jadi begitu, ya.</c.bg_transparent>
+
+180
+00:16:24,858 --> 00:16:27,945
+<c.bg_transparent>Tampaknya Fuhrer selalu sibuk.</c.bg_transparent>
+
+181
+00:16:29,863 --> 00:16:31,573
+<c.bg_transparent>Benar sekali.</c.bg_transparent>
+
+182
+00:16:31,740 --> 00:16:35,869
+<c.bg_transparent>Dia berniat untuk tetap aktif bertugas</c.bg_transparent>
+<c.bg_transparent>dan bekerja sendiri.</c.bg_transparent>
+
+183
+00:16:36,370 --> 00:16:39,873
+<c.bg_transparent>Aku ingin dia pensiun,</c.bg_transparent>
+<c.bg_transparent>mengingat usianya yang tak lagi muda.</c.bg_transparent>
+
+184
+00:16:40,582 --> 00:16:43,877
+<c.bg_transparent>Dia sangat berdedikasi</c.bg_transparent>
+<c.bg_transparent>pada pekerjaannya.</c.bg_transparent>
+
+185
+00:16:44,795 --> 00:16:50,384
+<c.bg_transparent>Dia mampu menangani tugasnya,</c.bg_transparent>
+<c.bg_transparent>tapi tak pernah mengerti wanita.</c.bg_transparent>
+
+186
+00:16:50,718 --> 00:16:54,388
+<c.bg_transparent>Dia pria yang kasar,</c.bg_transparent>
+<c.bg_transparent>aku bahkan menamparnya.</c.bg_transparent>
+
+187
+00:16:55,806 --> 00:16:57,391
+<c.bg_transparent>Mungkin ini takdir.</c.bg_transparent>
+
+188
+00:16:57,474 --> 00:17:00,477
+<c.bg_transparent>Karena kami dipertemukan</c.bg_transparent>
+<c.bg_transparent>dan menjalin hubungan.</c.bg_transparent>
+
+189
+00:17:01,603 --> 00:17:05,107
+<c.bg_transparent>Ya ampun!</c.bg_transparent>
+<c.bg_transparent>Ceritaku mulai melantur.</c.bg_transparent>
+
+190
+00:17:16,618 --> 00:17:18,162
+<c.bg_transparent>- Ayah!</c.bg_transparent>
+<c.bg_transparent>- Wah...</c.bg_transparent>
+
+191
+00:17:19,747 --> 00:17:22,875
+<c.bg_transparent>- Selamat datang!</c.bg_transparent>
+<c.bg_transparent>- Oh, Selim.</c.bg_transparent>
+
+192
+00:17:23,751 --> 00:17:25,127
+<c.bg_transparent>Ada apa?</c.bg_transparent>
+
+193
+00:17:25,669 --> 00:17:29,882
+<c.bg_transparent>Karena ada banyak waktu luang,</c.bg_transparent>
+<c.bg_transparent>jadi aku mengunjungi kalian.</c.bg_transparent>
+
+194
+00:17:31,300 --> 00:17:35,554
+<c.bg_transparent>Dan juga, kudengar</c.bg_transparent>
+<c.bg_transparent>Fullmetal Alchemist datang kemari.</c.bg_transparent>
+
+195
+00:17:35,846 --> 00:17:37,973
+<c.bg_transparent>- Halo.</c.bg_transparent>
+<c.bg_transparent>- Lama tak berjumpa.</c.bg_transparent>
+
+196
+00:17:38,599 --> 00:17:41,685
+<c.bg_transparent>Kita baru saja bertemu</c.bg_transparent>
+<c.bg_transparent>di Pusat Komando Pusat, bukan?</c.bg_transparent>
+
+197
+00:17:49,026 --> 00:17:51,737
+<c.bg_transparent>Jadi kau bertemu mereka</c.bg_transparent>
+<c.bg_transparent>di perpustakaan.</c.bg_transparent>
+
+198
+00:17:51,862 --> 00:17:52,988
+<c.bg_transparent>Ya.</c.bg_transparent>
+
+199
+00:17:57,951 --> 00:18:00,204
+<c.bg_transparent>Kau pikir dia berbeda denganku, 'kan?</c.bg_transparent>
+
+200
+00:18:00,954 --> 00:18:05,542
+<c.bg_transparent>- Tidak, bukan begitu.</c.bg_transparent>
+<c.bg_transparent>- Anak ini bukan darah dagingku.</c.bg_transparent>
+
+201
+00:18:06,210 --> 00:18:09,213
+<c.bg_transparent>Kami tidak bisa memiliki anak.</c.bg_transparent>
+
+202
+00:18:09,838 --> 00:18:12,674
+<c.bg_transparent>Karena itu kami mengadopsinya</c.bg_transparent>
+<c.bg_transparent>dari kerabat.</c.bg_transparent>
+
+203
+00:18:14,426 --> 00:18:17,763
+<c.bg_transparent>Dia benar-benar tumbuh</c.bg_transparent>
+<c.bg_transparent>jadi anak yang baik dan berbakti.</c.bg_transparent>
+
+204
+00:18:17,888 --> 00:18:19,431
+<c.bg_transparent>Hentikan, ayah.</c.bg_transparent>
+
+205
+00:18:19,515 --> 00:18:22,935
+<c.bg_transparent>- Kau membuatku malu.</c.bg_transparent>
+<c.bg_transparent>- Itu benar.</c.bg_transparent>
+
+206
+00:18:30,109 --> 00:18:31,652
+<c.bg_transparent>Apa yang kau pikirkan?</c.bg_transparent>
+
+207
+00:18:33,946 --> 00:18:38,617
+<c.bg_transparent>Tidak, hanya saja kami tak pernah</c.bg_transparent>
+<c.bg_transparent>melihatmu selain di Pusat Komando</c.bg_transparent>
+
+208
+00:18:38,700 --> 00:18:40,828
+<c.bg_transparent>jadi, kau tahu maksudku, 'kan?</c.bg_transparent>
+
+209
+00:18:40,911 --> 00:18:43,539
+<c.bg_transparent>Seperti melihat sisi lain darimu.</c.bg_transparent>
+
+210
+00:18:43,956 --> 00:18:45,332
+<c.bg_transparent>Begitu, ya.</c.bg_transparent>
+
+211
+00:18:45,999 --> 00:18:50,254
+<c.bg_transparent>Orang sepertiku</c.bg_transparent>
+<c.bg_transparent>juga memiliki keluarga.</c.bg_transparent>
+
+212
+00:18:52,214 --> 00:18:55,092
+<c.bg_transparent>Mungkin sedikit berbeda</c.bg_transparent>
+<c.bg_transparent>dari keluarga kalian.</c.bg_transparent>
+
+213
+00:19:07,312 --> 00:19:09,481
+<c.bg_transparent>Ayah, sudah mau pergi?</c.bg_transparent>
+
+214
+00:19:09,857 --> 00:19:13,485
+<c.bg_transparent>Ya, sudah waktunya</c.bg_transparent>
+<c.bg_transparent>ayah kembali bekerja.</c.bg_transparent>
+
+215
+00:19:18,782 --> 00:19:23,412
+<c.bg_transparent>Anggap saja rumah sendiri,</c.bg_transparent>
+<c.bg_transparent><i>State Alchemist.</i></c.bg_transparent>
+
+216
+00:19:31,837 --> 00:19:32,838
+<c.bg_transparent>Ayo pergi.</c.bg_transparent>
+
+217
+00:19:44,433 --> 00:19:48,937
+<c.bg_transparent>- Lain kali datang lagi, ya.</c.bg_transparent>
+<c.bg_transparent>- Ya, sampai nanti.</c.bg_transparent>
+
+218
+00:19:57,946 --> 00:20:02,701
+<c.bg_transparent>Tampaknya istri maupun putranya</c.bg_transparent>
+<c.bg_transparent>tak tahu bahwa Fuhrer itu Homunculus.</c.bg_transparent>
+
+219
+00:20:09,166 --> 00:20:11,835
+<c.bg_transparent>Ayo, kita pergi utara!</c.bg_transparent>
+
+220
+00:20:12,169 --> 00:20:14,004
+<c.bg_transparent>Akan kutangkap gadis kecil itu,</c.bg_transparent>
+
+221
+00:20:14,087 --> 00:20:16,590
+<c.bg_transparent>dan dapatkan rahasia Alkimia Timur</c.bg_transparent>
+<c.bg_transparent>darinya.</c.bg_transparent>
+
+222
+00:20:16,924 --> 00:20:17,841
+<c.bg_transparent>Ya.</c.bg_transparent>
+
+223
+00:20:24,640 --> 00:20:27,017
+<c.bg_transparent>Kita akan tiba besok pagi.</c.bg_transparent>
+<c.bg_transparent>Jadi tidurlah.</c.bg_transparent>
+
+224
+00:20:45,702 --> 00:20:49,581
+<c.bg_transparent>Jadi dia berhasil</c.bg_transparent>
+<c.bg_transparent>melarikan diri, ya?</c.bg_transparent>
+
+225
+00:20:53,794 --> 00:20:57,214
+<c.bg_transparent>- Itu peta Wilayah Barat, bukan?</c.bg_transparent>
+<c.bg_transparent>- Ya.</c.bg_transparent>
+
+226
+00:21:00,592 --> 00:21:03,053
+<c.bg_transparent>Terakhir kali dia ditemukan...</c.bg_transparent>
+
+227
+00:21:03,136 --> 00:21:04,179
+<c.bg_transparent>di sini.</c.bg_transparent>
+
+228
+00:21:05,222 --> 00:21:07,057
+<c.bg_transparent><i>West City</i></c.bg_transparent><c.bg_transparent>, di sini.</c.bg_transparent>
+
+229
+00:21:08,350 --> 00:21:11,853
+<c.bg_transparent>Scar dan Marcoh</c.bg_transparent>
+<c.bg_transparent>menghilang di antara dua tempat ini.</c.bg_transparent>
+
+230
+00:21:16,066 --> 00:21:19,653
+<c.bg_transparent>Kau pasti melambat</c.bg_transparent>
+<c.bg_transparent>saat melintasi kurva ini, 'kan?</c.bg_transparent>
+
+231
+00:21:20,862 --> 00:21:22,990
+<c.bg_transparent>Mungkinkah mereka melompat?</c.bg_transparent>
+
+232
+00:21:23,448 --> 00:21:26,326
+<c.bg_transparent>Kemungkinan bisa,</c.bg_transparent>
+<c.bg_transparent>tapi itu sangat berbahaya.</c.bg_transparent>
+
+233
+00:21:27,244 --> 00:21:28,495
+<c.bg_transparent>Begitu ya.</c.bg_transparent>
+
+234
+00:21:30,664 --> 00:21:34,334
+<c.bg_transparent>Lalu, jika mereka melompat,</c.bg_transparent>
+<c.bg_transparent>arah mana yang akan diambil?</c.bg_transparent>
+
+235
+00:21:35,043 --> 00:21:36,295
+<c.bg_transparent>Utara?</c.bg_transparent>
+
+236
+00:21:37,254 --> 00:21:38,463
+<c.bg_transparent>Atau selatan?</c.bg_transparent>
+
+237
+00:23:31,618 --> 00:23:34,913
+<c.bg_transparent>Bukankah ini pertama kalinya</c.bg_transparent>
+<c.bg_transparent>kita pergi ke utara?</c.bg_transparent>
+
+238
+00:23:35,247 --> 00:23:36,289
+<c.bg_transparent>Ya, benar.</c.bg_transparent>
+
+239
+00:23:36,373 --> 00:23:38,917
+<c.bg_transparent>Kira-kira kita bisa</c.bg_transparent>
+<c.bg_transparent>melihat salju tidak, ya?</c.bg_transparent>
+
+240
+00:23:39,418 --> 00:23:45,006
+<c.bg_transparent>Salju? Jarang sekali ada</c.bg_transparent>
+<c.bg_transparent>saat kita di Resembool.</c.bg_transparent>
+
+241
+00:23:45,799 --> 00:23:48,176
+<c.bg_transparent>Terjemahan subtitle oleh</c.bg_transparent>
+<c.bg_transparent>Rimadiani Putri</c.bg_transparent>
+
